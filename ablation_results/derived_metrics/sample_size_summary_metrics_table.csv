@@ -1,0 +1,1121 @@
+metric,family,dimension,test value,metric value
+Overall Error AUC,isotropic,2,100,0.443045322327668
+Overall Error AUC,isotropic,2,14371,0.4213370809846269
+Overall Error AUC,isotropic,2,28643,0.4093923716045194
+Overall Error AUC,isotropic,2,42914,0.41853681149103433
+Overall Error AUC,isotropic,2,57186,0.4337894439657757
+Overall Error AUC,isotropic,2,71457,0.4362586898302117
+Overall Error AUC,isotropic,2,85729,0.4374376510245374
+Overall Error AUC,isotropic,2,100000,0.4267217418785942
+Overall Error AUC,isotropic,3,100,0.6348070286587997
+Overall Error AUC,isotropic,3,14371,0.4950486129215998
+Overall Error AUC,isotropic,3,28643,0.4994230517350815
+Overall Error AUC,isotropic,3,42914,0.47448963495117796
+Overall Error AUC,isotropic,3,57186,0.5042219359048249
+Overall Error AUC,isotropic,3,71457,0.5029666953445571
+Overall Error AUC,isotropic,3,85729,0.4884015863485502
+Overall Error AUC,isotropic,3,100000,0.4764638574142153
+Overall Error AUC,isotropic,4,100,0.6463363780174997
+Overall Error AUC,isotropic,4,14371,0.4623945090922187
+Overall Error AUC,isotropic,4,28643,0.4603032138446374
+Overall Error AUC,isotropic,4,42914,0.4581628609718596
+Overall Error AUC,isotropic,4,57186,0.463060462965992
+Overall Error AUC,isotropic,4,71457,0.46671343465012854
+Overall Error AUC,isotropic,4,85729,0.46266412386783407
+Overall Error AUC,isotropic,4,100000,0.4779508216581137
+Overall Error AUC,isotropic,5,100,0.8183006327554297
+Overall Error AUC,isotropic,5,14371,0.5312270166710694
+Overall Error AUC,isotropic,5,28643,0.5327565270713588
+Overall Error AUC,isotropic,5,42914,0.5526481787652858
+Overall Error AUC,isotropic,5,57186,0.5633233821108304
+Overall Error AUC,isotropic,5,71457,0.5389375769065493
+Overall Error AUC,isotropic,5,85729,0.5494856734684873
+Overall Error AUC,isotropic,5,100000,0.5282521715655233
+Overall Error AUC,diagonal,2,100,0.5767460060779787
+Overall Error AUC,diagonal,2,14371,0.4442556086249582
+Overall Error AUC,diagonal,2,28643,0.43367957116558487
+Overall Error AUC,diagonal,2,42914,0.4414331991710029
+Overall Error AUC,diagonal,2,57186,0.4448137194561226
+Overall Error AUC,diagonal,2,71457,0.44842724540475026
+Overall Error AUC,diagonal,2,85729,0.44118701473549393
+Overall Error AUC,diagonal,2,100000,0.44566024812853516
+Overall Error AUC,diagonal,3,100,0.7066069553038632
+Overall Error AUC,diagonal,3,14371,0.4744136194356561
+Overall Error AUC,diagonal,3,28643,0.4698598362339166
+Overall Error AUC,diagonal,3,42914,0.47955276528167706
+Overall Error AUC,diagonal,3,57186,0.4767944180758034
+Overall Error AUC,diagonal,3,71457,0.47436415051302
+Overall Error AUC,diagonal,3,85729,0.468606516192459
+Overall Error AUC,diagonal,3,100000,0.46725614819232264
+Overall Error AUC,diagonal,4,100,0.7621742897759346
+Overall Error AUC,diagonal,4,14371,0.47559781304569954
+Overall Error AUC,diagonal,4,28643,0.47686083873538054
+Overall Error AUC,diagonal,4,42914,0.47614394949782657
+Overall Error AUC,diagonal,4,57186,0.4771475200285317
+Overall Error AUC,diagonal,4,71457,0.4772106567641813
+Overall Error AUC,diagonal,4,85729,0.4926765897945118
+Overall Error AUC,diagonal,4,100000,0.48710216363734743
+Overall Error AUC,diagonal,5,100,0.8360134465194855
+Overall Error AUC,diagonal,5,14371,0.5097527360715925
+Overall Error AUC,diagonal,5,28643,0.5112507011467801
+Overall Error AUC,diagonal,5,42914,0.504090615970145
+Overall Error AUC,diagonal,5,57186,0.5073161648923337
+Overall Error AUC,diagonal,5,71457,0.5241348291733658
+Overall Error AUC,diagonal,5,85729,0.5212648880882174
+Overall Error AUC,diagonal,5,100000,0.518361801695916
+Overall Error AUC,ar_correlated,2,100,0.41280689576058655
+Overall Error AUC,ar_correlated,2,14371,0.35476737446774276
+Overall Error AUC,ar_correlated,2,28643,0.3509218633036907
+Overall Error AUC,ar_correlated,2,42914,0.3525056783786911
+Overall Error AUC,ar_correlated,2,57186,0.3516782459765795
+Overall Error AUC,ar_correlated,2,71457,0.3501538914680364
+Overall Error AUC,ar_correlated,2,85729,0.3496808958202102
+Overall Error AUC,ar_correlated,2,100000,0.3498427276796862
+Overall Error AUC,ar_correlated,3,100,0.6239492677302982
+Overall Error AUC,ar_correlated,3,14371,0.5507595265962641
+Overall Error AUC,ar_correlated,3,28643,0.5505246741145304
+Overall Error AUC,ar_correlated,3,42914,0.5485158452063691
+Overall Error AUC,ar_correlated,3,57186,0.5512946064615343
+Overall Error AUC,ar_correlated,3,71457,0.5486867431830741
+Overall Error AUC,ar_correlated,3,85729,0.5292076387605289
+Overall Error AUC,ar_correlated,3,100000,0.552758664746785
+Overall Error AUC,ar_correlated,4,100,0.7501770197108372
+Overall Error AUC,ar_correlated,4,14371,0.5659269940115205
+Overall Error AUC,ar_correlated,4,28643,0.5681818700123156
+Overall Error AUC,ar_correlated,4,42914,0.5657939297080068
+Overall Error AUC,ar_correlated,4,57186,0.5704354458983465
+Overall Error AUC,ar_correlated,4,71457,0.5673339421092635
+Overall Error AUC,ar_correlated,4,85729,0.5670072716296856
+Overall Error AUC,ar_correlated,4,100000,0.569554634885143
+Overall Error AUC,ar_correlated,5,100,0.8145759193635466
+Overall Error AUC,ar_correlated,5,14371,0.6421023582270984
+Overall Error AUC,ar_correlated,5,28643,0.6785926365752175
+Overall Error AUC,ar_correlated,5,42914,0.6717560241947867
+Overall Error AUC,ar_correlated,5,57186,0.6748117975026867
+Overall Error AUC,ar_correlated,5,71457,0.6771964434331892
+Overall Error AUC,ar_correlated,5,85729,0.6766880083559031
+Overall Error AUC,ar_correlated,5,100000,0.6835855860715686
+Overall Error AUC,independent_linear_combination,2,100,0.5413872502196848
+Overall Error AUC,independent_linear_combination,2,14371,0.4102716013092342
+Overall Error AUC,independent_linear_combination,2,28643,0.40346104997699705
+Overall Error AUC,independent_linear_combination,2,42914,0.4081476872256179
+Overall Error AUC,independent_linear_combination,2,57186,0.39169870938639156
+Overall Error AUC,independent_linear_combination,2,71457,0.39467276657075134
+Overall Error AUC,independent_linear_combination,2,85729,0.3878428361059997
+Overall Error AUC,independent_linear_combination,2,100000,0.42047505895845305
+Overall Error AUC,independent_linear_combination,3,100,1.097671050563021
+Overall Error AUC,independent_linear_combination,3,14371,0.8152174088117592
+Overall Error AUC,independent_linear_combination,3,28643,1.0300681680384671
+Overall Error AUC,independent_linear_combination,3,42914,0.6374784795496239
+Overall Error AUC,independent_linear_combination,3,57186,2.06153579918028
+Overall Error AUC,independent_linear_combination,3,71457,2.588904520571344
+Overall Error AUC,independent_linear_combination,3,85729,0.6364347747959103
+Overall Error AUC,independent_linear_combination,3,100000,1.6522489557154407
+Overall Error AUC,independent_linear_combination,4,100,1.6048782448338208
+Overall Error AUC,independent_linear_combination,4,14371,0.922456762380599
+Overall Error AUC,independent_linear_combination,4,28643,0.9286914961480319
+Overall Error AUC,independent_linear_combination,4,42914,0.8977762477523747
+Overall Error AUC,independent_linear_combination,4,57186,0.9183034543918429
+Overall Error AUC,independent_linear_combination,4,71457,0.923298160548
+Overall Error AUC,independent_linear_combination,4,85729,0.9387077454701926
+Overall Error AUC,independent_linear_combination,4,100000,0.9266432523205268
+Overall Error AUC,independent_linear_combination,5,100,1.63283057560445
+Overall Error AUC,independent_linear_combination,5,14371,1.1926418120292626
+Overall Error AUC,independent_linear_combination,5,28643,1.1741529382279838
+Overall Error AUC,independent_linear_combination,5,42914,1.156583034669722
+Overall Error AUC,independent_linear_combination,5,57186,1.113596784218268
+Overall Error AUC,independent_linear_combination,5,71457,1.1279874375396968
+Overall Error AUC,independent_linear_combination,5,85729,1.1558968262309885
+Overall Error AUC,independent_linear_combination,5,100000,1.15029053406621
+Overall Error AUC,random,2,100,0.5792175609488321
+Overall Error AUC,random,2,14371,0.4636168721460588
+Overall Error AUC,random,2,28643,0.4759486062854563
+Overall Error AUC,random,2,42914,0.47114546726791184
+Overall Error AUC,random,2,57186,0.4617463427017858
+Overall Error AUC,random,2,71457,0.46876044403455497
+Overall Error AUC,random,2,85729,0.4662786862766116
+Overall Error AUC,random,2,100000,0.46919442760413144
+Overall Error AUC,random,3,100,0.6809633177782898
+Overall Error AUC,random,3,14371,0.4901848460409646
+Overall Error AUC,random,3,28643,0.4812636726136543
+Overall Error AUC,random,3,42914,0.48877347482196304
+Overall Error AUC,random,3,57186,0.4753034257517982
+Overall Error AUC,random,3,71457,0.4773942645759017
+Overall Error AUC,random,3,85729,0.48342333747916744
+Overall Error AUC,random,3,100000,0.48948437340479606
+Overall Error AUC,random,4,100,0.7680998675436296
+Overall Error AUC,random,4,14371,0.5260794266514036
+Overall Error AUC,random,4,28643,0.5344474301734201
+Overall Error AUC,random,4,42914,0.5472954503641638
+Overall Error AUC,random,4,57186,0.5420438892716111
+Overall Error AUC,random,4,71457,0.5492681241856777
+Overall Error AUC,random,4,85729,0.5375220954013903
+Overall Error AUC,random,4,100000,0.5543142365716394
+Overall Error AUC,random,5,100,0.9669509499639143
+Overall Error AUC,random,5,14371,0.6016462853080206
+Overall Error AUC,random,5,28643,0.5957448992828399
+Overall Error AUC,random,5,42914,0.6051042928434898
+Overall Error AUC,random,5,57186,0.5892079252436682
+Overall Error AUC,random,5,71457,0.5960293762705622
+Overall Error AUC,random,5,85729,0.6150618390644965
+Overall Error AUC,random,5,100000,0.5910660770026195
+Overall Error Progress AUC,isotropic,2,100,0.8679019777005722
+Overall Error Progress AUC,isotropic,2,14371,0.9140834710163415
+Overall Error Progress AUC,isotropic,2,28643,0.9471014074840051
+Overall Error Progress AUC,isotropic,2,42914,0.9216254082825779
+Overall Error Progress AUC,isotropic,2,57186,0.8651026097098433
+Overall Error Progress AUC,isotropic,2,71457,0.9190152995116965
+Overall Error Progress AUC,isotropic,2,85729,0.8914976843000291
+Overall Error Progress AUC,isotropic,2,100000,0.9184098951825421
+Overall Error Progress AUC,isotropic,3,100,0.9345090544718226
+Overall Error Progress AUC,isotropic,3,14371,0.8725350728366412
+Overall Error Progress AUC,isotropic,3,28643,0.8375407569551934
+Overall Error Progress AUC,isotropic,3,42914,0.9268169957402382
+Overall Error Progress AUC,isotropic,3,57186,0.8635414384639919
+Overall Error Progress AUC,isotropic,3,71457,0.864837040097974
+Overall Error Progress AUC,isotropic,3,85729,0.8754652522562768
+Overall Error Progress AUC,isotropic,3,100000,0.9140032163243256
+Overall Error Progress AUC,isotropic,4,100,0.7981406494759766
+Overall Error Progress AUC,isotropic,4,14371,0.8716424514585382
+Overall Error Progress AUC,isotropic,4,28643,0.8840897275954209
+Overall Error Progress AUC,isotropic,4,42914,0.8973152814182292
+Overall Error Progress AUC,isotropic,4,57186,0.8877310470448924
+Overall Error Progress AUC,isotropic,4,71457,0.8587429411568142
+Overall Error Progress AUC,isotropic,4,85729,0.8888999342039284
+Overall Error Progress AUC,isotropic,4,100000,0.7403460314757202
+Overall Error Progress AUC,isotropic,5,100,0.9581903918978301
+Overall Error Progress AUC,isotropic,5,14371,0.8971764520598008
+Overall Error Progress AUC,isotropic,5,28643,0.8769916349787812
+Overall Error Progress AUC,isotropic,5,42914,0.8717004386771515
+Overall Error Progress AUC,isotropic,5,57186,0.8140232728496405
+Overall Error Progress AUC,isotropic,5,71457,0.8998652669132
+Overall Error Progress AUC,isotropic,5,85729,0.8214221797479493
+Overall Error Progress AUC,isotropic,5,100000,0.7738863325546187
+Overall Error Progress AUC,diagonal,2,100,0.8286616742964219
+Overall Error Progress AUC,diagonal,2,14371,0.8839713353075439
+Overall Error Progress AUC,diagonal,2,28643,0.9288312253917365
+Overall Error Progress AUC,diagonal,2,42914,0.8911430689804847
+Overall Error Progress AUC,diagonal,2,57186,0.9017112018600464
+Overall Error Progress AUC,diagonal,2,71457,0.8019137861561443
+Overall Error Progress AUC,diagonal,2,85729,0.933181132220851
+Overall Error Progress AUC,diagonal,2,100000,0.6821403523992052
+Overall Error Progress AUC,diagonal,3,100,0.7034055790208714
+Overall Error Progress AUC,diagonal,3,14371,0.8960583360097486
+Overall Error Progress AUC,diagonal,3,28643,0.9039261969349005
+Overall Error Progress AUC,diagonal,3,42914,0.8545869372222052
+Overall Error Progress AUC,diagonal,3,57186,0.8615883269736775
+Overall Error Progress AUC,diagonal,3,71457,0.7708600388749679
+Overall Error Progress AUC,diagonal,3,85729,0.9001079653591972
+Overall Error Progress AUC,diagonal,3,100000,0.8918516458262638
+Overall Error Progress AUC,diagonal,4,100,0.6921400290493149
+Overall Error Progress AUC,diagonal,4,14371,0.8790634059982954
+Overall Error Progress AUC,diagonal,4,28643,0.8337805450269046
+Overall Error Progress AUC,diagonal,4,42914,0.8597467466484863
+Overall Error Progress AUC,diagonal,4,57186,0.8856056911533592
+Overall Error Progress AUC,diagonal,4,71457,0.8751387751275113
+Overall Error Progress AUC,diagonal,4,85729,0.860906495096373
+Overall Error Progress AUC,diagonal,4,100000,0.8426830716456671
+Overall Error Progress AUC,diagonal,5,100,0.8720141726900672
+Overall Error Progress AUC,diagonal,5,14371,0.8720255337905809
+Overall Error Progress AUC,diagonal,5,28643,0.8676656190232209
+Overall Error Progress AUC,diagonal,5,42914,0.8749630866680285
+Overall Error Progress AUC,diagonal,5,57186,0.9072765618252714
+Overall Error Progress AUC,diagonal,5,71457,0.8438646356175603
+Overall Error Progress AUC,diagonal,5,85729,0.7915686680398494
+Overall Error Progress AUC,diagonal,5,100000,0.8777621382299717
+Overall Error Progress AUC,ar_correlated,2,100,0.799635680016041
+Overall Error Progress AUC,ar_correlated,2,14371,0.8533119429519588
+Overall Error Progress AUC,ar_correlated,2,28643,0.8897480604310438
+Overall Error Progress AUC,ar_correlated,2,42914,0.8503947577147067
+Overall Error Progress AUC,ar_correlated,2,57186,0.857528044520089
+Overall Error Progress AUC,ar_correlated,2,71457,0.8795762396819392
+Overall Error Progress AUC,ar_correlated,2,85729,0.8918399538263433
+Overall Error Progress AUC,ar_correlated,2,100000,0.8769779551926311
+Overall Error Progress AUC,ar_correlated,3,100,0.9282710951485791
+Overall Error Progress AUC,ar_correlated,3,14371,0.8815972405643743
+Overall Error Progress AUC,ar_correlated,3,28643,0.8592212591952707
+Overall Error Progress AUC,ar_correlated,3,42914,0.8618512067675239
+Overall Error Progress AUC,ar_correlated,3,57186,0.8610993477206025
+Overall Error Progress AUC,ar_correlated,3,71457,0.8845431648080749
+Overall Error Progress AUC,ar_correlated,3,85729,0.8604160384601044
+Overall Error Progress AUC,ar_correlated,3,100000,0.8562232193794443
+Overall Error Progress AUC,ar_correlated,4,100,0.9149963269999581
+Overall Error Progress AUC,ar_correlated,4,14371,0.8703153942125723
+Overall Error Progress AUC,ar_correlated,4,28643,0.863664460756446
+Overall Error Progress AUC,ar_correlated,4,42914,0.8644120716994099
+Overall Error Progress AUC,ar_correlated,4,57186,0.8453111556005756
+Overall Error Progress AUC,ar_correlated,4,71457,0.8568335380371966
+Overall Error Progress AUC,ar_correlated,4,85729,0.868881501085212
+Overall Error Progress AUC,ar_correlated,4,100000,0.8600182338723337
+Overall Error Progress AUC,ar_correlated,5,100,0.8957002625139855
+Overall Error Progress AUC,ar_correlated,5,14371,0.8698919683986203
+Overall Error Progress AUC,ar_correlated,5,28643,0.8539841869877322
+Overall Error Progress AUC,ar_correlated,5,42914,0.8819525666345015
+Overall Error Progress AUC,ar_correlated,5,57186,0.8721940628194912
+Overall Error Progress AUC,ar_correlated,5,71457,0.8646065405603536
+Overall Error Progress AUC,ar_correlated,5,85729,0.8531197344345118
+Overall Error Progress AUC,ar_correlated,5,100000,0.8514431675270493
+Overall Error Progress AUC,independent_linear_combination,2,100,0.8320676166529309
+Overall Error Progress AUC,independent_linear_combination,2,14371,0.8797810395756676
+Overall Error Progress AUC,independent_linear_combination,2,28643,0.8540987104515818
+Overall Error Progress AUC,independent_linear_combination,2,42914,0.8715754789220748
+Overall Error Progress AUC,independent_linear_combination,2,57186,0.8932280380345728
+Overall Error Progress AUC,independent_linear_combination,2,71457,0.8896062793234477
+Overall Error Progress AUC,independent_linear_combination,2,85729,0.869858034697448
+Overall Error Progress AUC,independent_linear_combination,2,100000,0.852144824476448
+Overall Error Progress AUC,independent_linear_combination,3,100,0.9343538255630364
+Overall Error Progress AUC,independent_linear_combination,3,14371,0.8546773477662651
+Overall Error Progress AUC,independent_linear_combination,3,28643,0.7450459688204187
+Overall Error Progress AUC,independent_linear_combination,3,42914,0.7669581779781706
+Overall Error Progress AUC,independent_linear_combination,3,57186,0.6249840833483772
+Overall Error Progress AUC,independent_linear_combination,3,71457,0.7605469316653325
+Overall Error Progress AUC,independent_linear_combination,3,85729,0.917529914856127
+Overall Error Progress AUC,independent_linear_combination,3,100000,0.7401178680521427
+Overall Error Progress AUC,independent_linear_combination,4,100,0.65412155623759
+Overall Error Progress AUC,independent_linear_combination,4,14371,0.8745386203835912
+Overall Error Progress AUC,independent_linear_combination,4,28643,0.8523551810155712
+Overall Error Progress AUC,independent_linear_combination,4,42914,0.8614837285915723
+Overall Error Progress AUC,independent_linear_combination,4,57186,0.8714734697694642
+Overall Error Progress AUC,independent_linear_combination,4,71457,0.882666859475832
+Overall Error Progress AUC,independent_linear_combination,4,85729,0.7861782910248268
+Overall Error Progress AUC,independent_linear_combination,4,100000,0.8920737476810665
+Overall Error Progress AUC,independent_linear_combination,5,100,0.9473508704017114
+Overall Error Progress AUC,independent_linear_combination,5,14371,0.8511664208309383
+Overall Error Progress AUC,independent_linear_combination,5,28643,0.8676274243934996
+Overall Error Progress AUC,independent_linear_combination,5,42914,0.8674610906716786
+Overall Error Progress AUC,independent_linear_combination,5,57186,0.8771533593947162
+Overall Error Progress AUC,independent_linear_combination,5,71457,0.8773354340003059
+Overall Error Progress AUC,independent_linear_combination,5,85729,0.8642477525623132
+Overall Error Progress AUC,independent_linear_combination,5,100000,0.8773560264313097
+Overall Error Progress AUC,random,2,100,0.7331766059779017
+Overall Error Progress AUC,random,2,14371,0.9077866689774872
+Overall Error Progress AUC,random,2,28643,0.7723189153782537
+Overall Error Progress AUC,random,2,42914,0.9062458713472856
+Overall Error Progress AUC,random,2,57186,0.9261277815176621
+Overall Error Progress AUC,random,2,71457,0.7427427085033527
+Overall Error Progress AUC,random,2,85729,0.9020916973835089
+Overall Error Progress AUC,random,2,100000,0.79108403394638
+Overall Error Progress AUC,random,3,100,0.782531092264296
+Overall Error Progress AUC,random,3,14371,0.8691829228155818
+Overall Error Progress AUC,random,3,28643,0.8614202929912054
+Overall Error Progress AUC,random,3,42914,0.8222775142302882
+Overall Error Progress AUC,random,3,57186,0.8632701984511125
+Overall Error Progress AUC,random,3,71457,0.8869993958327137
+Overall Error Progress AUC,random,3,85729,0.8638950995135349
+Overall Error Progress AUC,random,3,100000,0.8320340288776987
+Overall Error Progress AUC,random,4,100,0.7634636112585054
+Overall Error Progress AUC,random,4,14371,0.9010206723724362
+Overall Error Progress AUC,random,4,28643,0.8753591325618597
+Overall Error Progress AUC,random,4,42914,0.8567004097848417
+Overall Error Progress AUC,random,4,57186,0.7782348778337854
+Overall Error Progress AUC,random,4,71457,0.8462228408213402
+Overall Error Progress AUC,random,4,85729,0.8734792568149288
+Overall Error Progress AUC,random,4,100000,0.7273090815470398
+Overall Error Progress AUC,random,5,100,0.6767408446500341
+Overall Error Progress AUC,random,5,14371,0.8893524815874193
+Overall Error Progress AUC,random,5,28643,0.8523168454972182
+Overall Error Progress AUC,random,5,42914,0.8693896125681131
+Overall Error Progress AUC,random,5,57186,0.9042601666224183
+Overall Error Progress AUC,random,5,71457,0.8697101904244976
+Overall Error Progress AUC,random,5,85729,0.8603873263112184
+Overall Error Progress AUC,random,5,100000,0.9085671819990675
+Final Relative Parameter Cauchy,isotropic,2,100,0.0008032919640879875
+Final Relative Parameter Cauchy,isotropic,2,14371,0.0008441369487557624
+Final Relative Parameter Cauchy,isotropic,2,28643,0.000930974235163625
+Final Relative Parameter Cauchy,isotropic,2,42914,0.000967475284621275
+Final Relative Parameter Cauchy,isotropic,2,57186,0.0012168040337879999
+Final Relative Parameter Cauchy,isotropic,2,71457,0.0009567773869091
+Final Relative Parameter Cauchy,isotropic,2,85729,0.0011143781596342625
+Final Relative Parameter Cauchy,isotropic,2,100000,0.000743496628991725
+Final Relative Parameter Cauchy,isotropic,3,100,8.62279951391125e-05
+Final Relative Parameter Cauchy,isotropic,3,14371,0.000853976567515625
+Final Relative Parameter Cauchy,isotropic,3,28643,0.0009001899182573126
+Final Relative Parameter Cauchy,isotropic,3,42914,0.00068473147195675
+Final Relative Parameter Cauchy,isotropic,3,57186,0.0008100508843603125
+Final Relative Parameter Cauchy,isotropic,3,71457,0.0008120792308495874
+Final Relative Parameter Cauchy,isotropic,3,85729,0.00073533141951155
+Final Relative Parameter Cauchy,isotropic,3,100000,0.0005846900852393875
+Final Relative Parameter Cauchy,isotropic,4,100,0.0005438008285912875
+Final Relative Parameter Cauchy,isotropic,4,14371,0.0009531100229870875
+Final Relative Parameter Cauchy,isotropic,4,28643,0.0009655482821953501
+Final Relative Parameter Cauchy,isotropic,4,42914,0.001011120011322925
+Final Relative Parameter Cauchy,isotropic,4,57186,0.000922017841023825
+Final Relative Parameter Cauchy,isotropic,4,71457,0.0010627662295900624
+Final Relative Parameter Cauchy,isotropic,4,85729,0.0010020382676193375
+Final Relative Parameter Cauchy,isotropic,4,100000,0.001197659486084325
+Final Relative Parameter Cauchy,isotropic,5,100,0.000169440096627175
+Final Relative Parameter Cauchy,isotropic,5,14371,0.0006455505005674714
+Final Relative Parameter Cauchy,isotropic,5,28643,0.0006710647877452428
+Final Relative Parameter Cauchy,isotropic,5,42914,0.0005713158478558857
+Final Relative Parameter Cauchy,isotropic,5,57186,0.0006091932724516856
+Final Relative Parameter Cauchy,isotropic,5,71457,0.0006133558724980714
+Final Relative Parameter Cauchy,isotropic,5,85729,0.0007739178460923
+Final Relative Parameter Cauchy,isotropic,5,100000,0.0006702151252187714
+Final Relative Parameter Cauchy,diagonal,2,100,0.0004479268289157125
+Final Relative Parameter Cauchy,diagonal,2,14371,0.0010284765321226124
+Final Relative Parameter Cauchy,diagonal,2,28643,0.0009274911734327625
+Final Relative Parameter Cauchy,diagonal,2,42914,0.0008322128531130125
+Final Relative Parameter Cauchy,diagonal,2,57186,0.0010716362805603626
+Final Relative Parameter Cauchy,diagonal,2,71457,0.0007988199265324625
+Final Relative Parameter Cauchy,diagonal,2,85729,0.0005500651504598501
+Final Relative Parameter Cauchy,diagonal,2,100000,0.00086977291673895
+Final Relative Parameter Cauchy,diagonal,3,100,0.00032427315856948754
+Final Relative Parameter Cauchy,diagonal,3,14371,0.00098740959502925
+Final Relative Parameter Cauchy,diagonal,3,28643,0.0008540958518010249
+Final Relative Parameter Cauchy,diagonal,3,42914,0.001101204533904625
+Final Relative Parameter Cauchy,diagonal,3,57186,0.0008685186594412501
+Final Relative Parameter Cauchy,diagonal,3,71457,0.0010180125085268625
+Final Relative Parameter Cauchy,diagonal,3,85729,0.000949887837675725
+Final Relative Parameter Cauchy,diagonal,3,100000,0.0008888626111276375
+Final Relative Parameter Cauchy,diagonal,4,100,0.000352135080690675
+Final Relative Parameter Cauchy,diagonal,4,14371,0.00097947087260065
+Final Relative Parameter Cauchy,diagonal,4,28643,0.0009817458190958875
+Final Relative Parameter Cauchy,diagonal,4,42914,0.0008829429653767375
+Final Relative Parameter Cauchy,diagonal,4,57186,0.0009791568990717375
+Final Relative Parameter Cauchy,diagonal,4,71457,0.001005311182526275
+Final Relative Parameter Cauchy,diagonal,4,85729,0.0009051952834564875
+Final Relative Parameter Cauchy,diagonal,4,100000,0.0009656408688566875
+Final Relative Parameter Cauchy,diagonal,5,100,0.0005398066293833875
+Final Relative Parameter Cauchy,diagonal,5,14371,0.0008543548166879251
+Final Relative Parameter Cauchy,diagonal,5,28643,0.00092301136408035
+Final Relative Parameter Cauchy,diagonal,5,42914,0.0006631249559144125
+Final Relative Parameter Cauchy,diagonal,5,57186,0.0007077471422431375
+Final Relative Parameter Cauchy,diagonal,5,71457,0.0007650701007450375
+Final Relative Parameter Cauchy,diagonal,5,85729,0.0008870440122645375
+Final Relative Parameter Cauchy,diagonal,5,100000,0.0008055122942752749
+Final Relative Parameter Cauchy,ar_correlated,2,100,0.000663563347330575
+Final Relative Parameter Cauchy,ar_correlated,2,14371,0.001845272048910825
+Final Relative Parameter Cauchy,ar_correlated,2,28643,0.0012907897721754125
+Final Relative Parameter Cauchy,ar_correlated,2,42914,0.00141412848340505
+Final Relative Parameter Cauchy,ar_correlated,2,57186,0.0018301695941217626
+Final Relative Parameter Cauchy,ar_correlated,2,71457,0.0011620794370793125
+Final Relative Parameter Cauchy,ar_correlated,2,85729,0.0012432616712029125
+Final Relative Parameter Cauchy,ar_correlated,2,100000,0.0012768684626069749
+Final Relative Parameter Cauchy,ar_correlated,3,100,0.000726907675199025
+Final Relative Parameter Cauchy,ar_correlated,3,14371,0.0011253534845438856
+Final Relative Parameter Cauchy,ar_correlated,3,28643,0.0012671456446467142
+Final Relative Parameter Cauchy,ar_correlated,3,42914,0.0014156909042093856
+Final Relative Parameter Cauchy,ar_correlated,3,57186,0.0013514588386135571
+Final Relative Parameter Cauchy,ar_correlated,3,71457,0.0011994746943698573
+Final Relative Parameter Cauchy,ar_correlated,3,85729,0.0012793496506719126
+Final Relative Parameter Cauchy,ar_correlated,3,100000,0.0012644151938924143
+Final Relative Parameter Cauchy,ar_correlated,4,100,0.000654658347051475
+Final Relative Parameter Cauchy,ar_correlated,4,14371,0.0013403269796333499
+Final Relative Parameter Cauchy,ar_correlated,4,28643,0.00131969962088945
+Final Relative Parameter Cauchy,ar_correlated,4,42914,0.001403032307099875
+Final Relative Parameter Cauchy,ar_correlated,4,57186,0.0013686496653606624
+Final Relative Parameter Cauchy,ar_correlated,4,71457,0.00154800413068755
+Final Relative Parameter Cauchy,ar_correlated,4,85729,0.0014365398984324126
+Final Relative Parameter Cauchy,ar_correlated,4,100000,0.001536641025865275
+Final Relative Parameter Cauchy,ar_correlated,5,100,0.0005326796584410375
+Final Relative Parameter Cauchy,ar_correlated,5,14371,0.0012990797989859714
+Final Relative Parameter Cauchy,ar_correlated,5,28643,0.0016556102477764498
+Final Relative Parameter Cauchy,ar_correlated,5,42914,0.0013885577022029001
+Final Relative Parameter Cauchy,ar_correlated,5,57186,0.0013500248914330131
+Final Relative Parameter Cauchy,ar_correlated,5,71457,0.0015488557010755169
+Final Relative Parameter Cauchy,ar_correlated,5,85729,0.0016811885905692835
+Final Relative Parameter Cauchy,ar_correlated,5,100000,0.0015214008957664168
+Final Relative Parameter Cauchy,independent_linear_combination,2,100,0.001151056756313025
+Final Relative Parameter Cauchy,independent_linear_combination,2,14371,0.0012199618334549874
+Final Relative Parameter Cauchy,independent_linear_combination,2,28643,0.0015263297289195626
+Final Relative Parameter Cauchy,independent_linear_combination,2,42914,0.00140612876820795
+Final Relative Parameter Cauchy,independent_linear_combination,2,57186,0.0011573922106310126
+Final Relative Parameter Cauchy,independent_linear_combination,2,71457,0.0011006987979467375
+Final Relative Parameter Cauchy,independent_linear_combination,2,85729,0.0012947622978236124
+Final Relative Parameter Cauchy,independent_linear_combination,2,100000,0.0014552328450418374
+Final Relative Parameter Cauchy,independent_linear_combination,3,100,0.0011125173571731911
+Final Relative Parameter Cauchy,independent_linear_combination,3,14371,0.0021076395511565285
+Final Relative Parameter Cauchy,independent_linear_combination,3,28643,0.0018106980777260857
+Final Relative Parameter Cauchy,independent_linear_combination,3,42914,0.0016235528603986
+Final Relative Parameter Cauchy,independent_linear_combination,3,57186,0.0014731526406081
+Final Relative Parameter Cauchy,independent_linear_combination,3,71457,0.0014670918494937713
+Final Relative Parameter Cauchy,independent_linear_combination,3,85729,0.0015465045568091
+Final Relative Parameter Cauchy,independent_linear_combination,3,100000,0.0014908324776335142
+Final Relative Parameter Cauchy,independent_linear_combination,4,100,0.0004940152700481
+Final Relative Parameter Cauchy,independent_linear_combination,4,14371,0.0021083950136423124
+Final Relative Parameter Cauchy,independent_linear_combination,4,28643,0.00201496242884915
+Final Relative Parameter Cauchy,independent_linear_combination,4,42914,0.0018545052796152374
+Final Relative Parameter Cauchy,independent_linear_combination,4,57186,0.0018659633633012626
+Final Relative Parameter Cauchy,independent_linear_combination,4,71457,0.0020197840144983627
+Final Relative Parameter Cauchy,independent_linear_combination,4,85729,0.001866873492201675
+Final Relative Parameter Cauchy,independent_linear_combination,4,100000,0.0018861529564601375
+Final Relative Parameter Cauchy,independent_linear_combination,5,100,0.0010871531372437
+Final Relative Parameter Cauchy,independent_linear_combination,5,14371,0.002679261719098167
+Final Relative Parameter Cauchy,independent_linear_combination,5,28643,0.0027142280522337004
+Final Relative Parameter Cauchy,independent_linear_combination,5,42914,0.0026864495457478168
+Final Relative Parameter Cauchy,independent_linear_combination,5,57186,0.0023545804578340664
+Final Relative Parameter Cauchy,independent_linear_combination,5,71457,0.002692953955051284
+Final Relative Parameter Cauchy,independent_linear_combination,5,85729,0.0027754109062299165
+Final Relative Parameter Cauchy,independent_linear_combination,5,100000,0.0026921871512476333
+Final Relative Parameter Cauchy,random,2,100,0.0
+Final Relative Parameter Cauchy,random,2,14371,0.0010959977819870626
+Final Relative Parameter Cauchy,random,2,28643,0.0009700691129722374
+Final Relative Parameter Cauchy,random,2,42914,0.000879449924276225
+Final Relative Parameter Cauchy,random,2,57186,0.00073020805528755
+Final Relative Parameter Cauchy,random,2,71457,0.001091279665386125
+Final Relative Parameter Cauchy,random,2,85729,0.00091998427218855
+Final Relative Parameter Cauchy,random,2,100000,0.0009794748125170126
+Final Relative Parameter Cauchy,random,3,100,0.00043935970757783753
+Final Relative Parameter Cauchy,random,3,14371,0.0007521453215990501
+Final Relative Parameter Cauchy,random,3,28643,0.0008681173977954
+Final Relative Parameter Cauchy,random,3,42914,0.0009096626715430125
+Final Relative Parameter Cauchy,random,3,57186,0.000898262749094025
+Final Relative Parameter Cauchy,random,3,71457,0.0008690358433229
+Final Relative Parameter Cauchy,random,3,85729,0.0008766370131148
+Final Relative Parameter Cauchy,random,3,100000,0.0008595147239746875
+Final Relative Parameter Cauchy,random,4,100,0.0007556514335533875
+Final Relative Parameter Cauchy,random,4,14371,0.000795402299273625
+Final Relative Parameter Cauchy,random,4,28643,0.00089548154841105
+Final Relative Parameter Cauchy,random,4,42914,0.00098159359874705
+Final Relative Parameter Cauchy,random,4,57186,0.0009811739789709875
+Final Relative Parameter Cauchy,random,4,71457,0.0009492233835118625
+Final Relative Parameter Cauchy,random,4,85729,0.00103537849914745
+Final Relative Parameter Cauchy,random,4,100000,0.0008688621026208
+Final Relative Parameter Cauchy,random,5,100,0.0008052163567485501
+Final Relative Parameter Cauchy,random,5,14371,0.000711004130826
+Final Relative Parameter Cauchy,random,5,28643,0.0009157057926701
+Final Relative Parameter Cauchy,random,5,42914,0.0008116283993627667
+Final Relative Parameter Cauchy,random,5,57186,0.0006546653594192166
+Final Relative Parameter Cauchy,random,5,71457,0.0006914841680584834
+Final Relative Parameter Cauchy,random,5,85729,0.00077172769893615
+Final Relative Parameter Cauchy,random,5,100000,0.0007251922808108167
+Final Overall Error,isotropic,2,100,0.4383352352415323
+Final Overall Error,isotropic,2,14371,0.41716624483508086
+Final Overall Error,isotropic,2,28643,0.4084856645829157
+Final Overall Error,isotropic,2,42914,0.41577184646299065
+Final Overall Error,isotropic,2,57186,0.4297744435816487
+Final Overall Error,isotropic,2,71457,0.43103955255975035
+Final Overall Error,isotropic,2,85729,0.4309618432852261
+Final Overall Error,isotropic,2,100000,0.4229930127896433
+Final Overall Error,isotropic,3,100,0.6338777811640847
+Final Overall Error,isotropic,3,14371,0.48449605678555757
+Final Overall Error,isotropic,3,28643,0.48950934263032325
+Final Overall Error,isotropic,3,42914,0.46888544578298974
+Final Overall Error,isotropic,3,57186,0.49158885470183145
+Final Overall Error,isotropic,3,71457,0.4910242139298522
+Final Overall Error,isotropic,3,85729,0.48161150459508395
+Final Overall Error,isotropic,3,100000,0.470065715953771
+Final Overall Error,isotropic,4,100,0.6414512923082645
+Final Overall Error,isotropic,4,14371,0.4578739963169839
+Final Overall Error,isotropic,4,28643,0.4550787281629329
+Final Overall Error,isotropic,4,42914,0.453915050759789
+Final Overall Error,isotropic,4,57186,0.4587097962709688
+Final Overall Error,isotropic,4,71457,0.46046767464942695
+Final Overall Error,isotropic,4,85729,0.4578467947639244
+Final Overall Error,isotropic,4,100000,0.4710438581836838
+Final Overall Error,isotropic,5,100,0.8155254195975619
+Final Overall Error,isotropic,5,14371,0.5249180755505554
+Final Overall Error,isotropic,5,28643,0.5261060007700094
+Final Overall Error,isotropic,5,42914,0.544798981076547
+Final Overall Error,isotropic,5,57186,0.5539334408994582
+Final Overall Error,isotropic,5,71457,0.5316820307403118
+Final Overall Error,isotropic,5,85729,0.5394663908396845
+Final Overall Error,isotropic,5,100000,0.5227536386915029
+Final Overall Error,diagonal,2,100,0.5748977619093356
+Final Overall Error,diagonal,2,14371,0.4392941881813595
+Final Overall Error,diagonal,2,28643,0.4298745222244113
+Final Overall Error,diagonal,2,42914,0.43644648492215665
+Final Overall Error,diagonal,2,57186,0.43914513830243185
+Final Overall Error,diagonal,2,71457,0.4432495049135736
+Final Overall Error,diagonal,2,85729,0.437579003550454
+Final Overall Error,diagonal,2,100000,0.44096019020444394
+Final Overall Error,diagonal,3,100,0.7044771977484079
+Final Overall Error,diagonal,3,14371,0.4676522477084682
+Final Overall Error,diagonal,3,28643,0.46467546903637036
+Final Overall Error,diagonal,3,42914,0.4719179655029352
+Final Overall Error,diagonal,3,57186,0.4700446746933845
+Final Overall Error,diagonal,3,71457,0.4667193468379586
+Final Overall Error,diagonal,3,85729,0.46236498662985515
+Final Overall Error,diagonal,3,100000,0.46154722993802394
+Final Overall Error,diagonal,4,100,0.758735439283539
+Final Overall Error,diagonal,4,14371,0.4679294425431584
+Final Overall Error,diagonal,4,28643,0.4695431796062313
+Final Overall Error,diagonal,4,42914,0.4687429923194365
+Final Overall Error,diagonal,4,57186,0.46993457038365793
+Final Overall Error,diagonal,4,71457,0.46952127628104384
+Final Overall Error,diagonal,4,85729,0.4845951698148427
+Final Overall Error,diagonal,4,100000,0.4786286364224285
+Final Overall Error,diagonal,5,100,0.8314810878504565
+Final Overall Error,diagonal,5,14371,0.5003000892205943
+Final Overall Error,diagonal,5,28643,0.5012833182857466
+Final Overall Error,diagonal,5,42914,0.4966915974179119
+Final Overall Error,diagonal,5,57186,0.500032004967073
+Final Overall Error,diagonal,5,71457,0.5130585269949817
+Final Overall Error,diagonal,5,85729,0.5102316995856595
+Final Overall Error,diagonal,5,100000,0.5091230085283001
+Final Overall Error,ar_correlated,2,100,0.411551200658675
+Final Overall Error,ar_correlated,2,14371,0.35083793293206034
+Final Overall Error,ar_correlated,2,28643,0.34785046148801496
+Final Overall Error,ar_correlated,2,42914,0.3491148978602846
+Final Overall Error,ar_correlated,2,57186,0.34780147836346303
+Final Overall Error,ar_correlated,2,71457,0.34692031441594934
+Final Overall Error,ar_correlated,2,85729,0.34677339705907323
+Final Overall Error,ar_correlated,2,100000,0.3465829865254177
+Final Overall Error,ar_correlated,3,100,0.6208938115223605
+Final Overall Error,ar_correlated,3,14371,0.5459315054706436
+Final Overall Error,ar_correlated,3,28643,0.5453175837119257
+Final Overall Error,ar_correlated,3,42914,0.5431092813603987
+Final Overall Error,ar_correlated,3,57186,0.5461155671416089
+Final Overall Error,ar_correlated,3,71457,0.5436269959432526
+Final Overall Error,ar_correlated,3,85729,0.5241309382895706
+Final Overall Error,ar_correlated,3,100000,0.5474046240008026
+Final Overall Error,ar_correlated,4,100,0.7462583855454289
+Final Overall Error,ar_correlated,4,14371,0.5595100208248931
+Final Overall Error,ar_correlated,4,28643,0.5618743710903279
+Final Overall Error,ar_correlated,4,42914,0.5593360892905196
+Final Overall Error,ar_correlated,4,57186,0.5639262303461483
+Final Overall Error,ar_correlated,4,71457,0.5605227221995995
+Final Overall Error,ar_correlated,4,85729,0.5606156362333178
+Final Overall Error,ar_correlated,4,100000,0.5630559037328684
+Final Overall Error,ar_correlated,5,100,0.8111656609068582
+Final Overall Error,ar_correlated,5,14371,0.6349511268127527
+Final Overall Error,ar_correlated,5,28643,0.6700138322391439
+Final Overall Error,ar_correlated,5,42914,0.663812925962126
+Final Overall Error,ar_correlated,5,57186,0.6667370004148903
+Final Overall Error,ar_correlated,5,71457,0.6686393719914207
+Final Overall Error,ar_correlated,5,85729,0.667686196185371
+Final Overall Error,ar_correlated,5,100000,0.6756711307740982
+Final Overall Error,independent_linear_combination,2,100,0.5324764693198157
+Final Overall Error,independent_linear_combination,2,14371,0.4016035624155643
+Final Overall Error,independent_linear_combination,2,28643,0.393603082950978
+Final Overall Error,independent_linear_combination,2,42914,0.39450258237999414
+Final Overall Error,independent_linear_combination,2,57186,0.38212633157920484
+Final Overall Error,independent_linear_combination,2,71457,0.3846149724040452
+Final Overall Error,independent_linear_combination,2,85729,0.37718780609747615
+Final Overall Error,independent_linear_combination,2,100000,0.40939479796184475
+Final Overall Error,independent_linear_combination,3,100,1.1028558321599604
+Final Overall Error,independent_linear_combination,3,14371,0.765181244750746
+Final Overall Error,independent_linear_combination,3,28643,0.9342754905605978
+Final Overall Error,independent_linear_combination,3,42914,0.6167705177446883
+Final Overall Error,independent_linear_combination,3,57186,1.9846860639069779
+Final Overall Error,independent_linear_combination,3,71457,2.3600436388253203
+Final Overall Error,independent_linear_combination,3,85729,0.6173717632481994
+Final Overall Error,independent_linear_combination,3,100000,1.5597398833789202
+Final Overall Error,independent_linear_combination,4,100,1.5934204254202933
+Final Overall Error,independent_linear_combination,4,14371,0.8765771180481241
+Final Overall Error,independent_linear_combination,4,28643,0.8826313467852206
+Final Overall Error,independent_linear_combination,4,42914,0.8544435948528359
+Final Overall Error,independent_linear_combination,4,57186,0.8780376948338956
+Final Overall Error,independent_linear_combination,4,71457,0.8828940795141226
+Final Overall Error,independent_linear_combination,4,85729,0.8941191474527432
+Final Overall Error,independent_linear_combination,4,100000,0.8920809401166654
+Final Overall Error,independent_linear_combination,5,100,1.613516438893619
+Final Overall Error,independent_linear_combination,5,14371,1.1145897639688322
+Final Overall Error,independent_linear_combination,5,28643,1.0855187993494313
+Final Overall Error,independent_linear_combination,5,42914,1.0759166828084685
+Final Overall Error,independent_linear_combination,5,57186,1.0440390283126215
+Final Overall Error,independent_linear_combination,5,71457,1.0474795317885992
+Final Overall Error,independent_linear_combination,5,85729,1.0690494985108778
+Final Overall Error,independent_linear_combination,5,100000,1.0699865603406817
+Final Overall Error,random,2,100,0.5788165202541244
+Final Overall Error,random,2,14371,0.45688022690547053
+Final Overall Error,random,2,28643,0.4688560466383422
+Final Overall Error,random,2,42914,0.46528289736192874
+Final Overall Error,random,2,57186,0.45685920826250465
+Final Overall Error,random,2,71457,0.46347220033113445
+Final Overall Error,random,2,85729,0.4606019092748275
+Final Overall Error,random,2,100000,0.4628484124901561
+Final Overall Error,random,3,100,0.6773257920326808
+Final Overall Error,random,3,14371,0.48114413502871556
+Final Overall Error,random,3,28643,0.47401177864903854
+Final Overall Error,random,3,42914,0.4791676021341385
+Final Overall Error,random,3,57186,0.4672629961941317
+Final Overall Error,random,3,71457,0.4695823861458218
+Final Overall Error,random,3,85729,0.4743023768768006
+Final Overall Error,random,3,100000,0.4804352934408201
+Final Overall Error,random,4,100,0.7613727851967733
+Final Overall Error,random,4,14371,0.5208415929376419
+Final Overall Error,random,4,28643,0.5265837462080094
+Final Overall Error,random,4,42914,0.5358821559881431
+Final Overall Error,random,4,57186,0.5331656955071568
+Final Overall Error,random,4,71457,0.5373220749020714
+Final Overall Error,random,4,85729,0.5268547561761876
+Final Overall Error,random,4,100000,0.5437133329558209
+Final Overall Error,random,5,100,0.9595805380002077
+Final Overall Error,random,5,14371,0.5906940481268791
+Final Overall Error,random,5,28643,0.5813754498859721
+Final Overall Error,random,5,42914,0.5910935900413018
+Final Overall Error,random,5,57186,0.57723262474674
+Final Overall Error,random,5,71457,0.5827802127070859
+Final Overall Error,random,5,85729,0.5980970635027264
+Final Overall Error,random,5,100000,0.5790768911587185
+Final Relative Overall Error,isotropic,2,100,0.8897448047540193
+Final Relative Overall Error,isotropic,2,14371,0.8734908108958895
+Final Relative Overall Error,isotropic,2,28643,0.8505150536727375
+Final Relative Overall Error,isotropic,2,42914,0.8607790676321136
+Final Relative Overall Error,isotropic,2,57186,0.8888211216057629
+Final Relative Overall Error,isotropic,2,71457,0.8856100901725181
+Final Relative Overall Error,isotropic,2,85729,0.8847613172592255
+Final Relative Overall Error,isotropic,2,100000,0.8713480961950599
+Final Relative Overall Error,isotropic,3,100,0.9582659283984457
+Final Relative Overall Error,isotropic,3,14371,0.8563362369791369
+Final Relative Overall Error,isotropic,3,28643,0.8664805201024106
+Final Relative Overall Error,isotropic,3,42914,0.8370941673385625
+Final Relative Overall Error,isotropic,3,57186,0.8683374005915633
+Final Relative Overall Error,isotropic,3,71457,0.8723579422037419
+Final Relative Overall Error,isotropic,3,85729,0.8604412017909709
+Final Relative Overall Error,isotropic,3,100000,0.8353093822560127
+Final Relative Overall Error,isotropic,4,100,0.9292928020168275
+Final Relative Overall Error,isotropic,4,14371,0.9175647961719009
+Final Relative Overall Error,isotropic,4,28643,0.9094549081391723
+Final Relative Overall Error,isotropic,4,42914,0.9037173045876323
+Final Relative Overall Error,isotropic,4,57186,0.9143561897815544
+Final Relative Overall Error,isotropic,4,71457,0.9152569215353797
+Final Relative Overall Error,isotropic,4,85729,0.9111836852788008
+Final Relative Overall Error,isotropic,4,100000,0.9334427416331275
+Final Relative Overall Error,isotropic,5,100,0.9752974772626307
+Final Relative Overall Error,isotropic,5,14371,0.8830578360924345
+Final Relative Overall Error,isotropic,5,28643,0.8911050664808053
+Final Relative Overall Error,isotropic,5,42914,0.9090724861592453
+Final Relative Overall Error,isotropic,5,57186,0.920264436310114
+Final Relative Overall Error,isotropic,5,71457,0.8957464589835807
+Final Relative Overall Error,isotropic,5,85729,0.9091180817371034
+Final Relative Overall Error,isotropic,5,100000,0.8905840561645018
+Final Relative Overall Error,diagonal,2,100,0.8839560399954378
+Final Relative Overall Error,diagonal,2,14371,0.911162971506832
+Final Relative Overall Error,diagonal,2,28643,0.900083663968096
+Final Relative Overall Error,diagonal,2,42914,0.9085991713426123
+Final Relative Overall Error,diagonal,2,57186,0.910027957496323
+Final Relative Overall Error,diagonal,2,71457,0.9309487342273458
+Final Relative Overall Error,diagonal,2,85729,0.9087879893403772
+Final Relative Overall Error,diagonal,2,100000,0.9154285308899208
+Final Relative Overall Error,diagonal,3,100,0.9497136776905702
+Final Relative Overall Error,diagonal,3,14371,0.8839209538440116
+Final Relative Overall Error,diagonal,3,28643,0.8827083051609323
+Final Relative Overall Error,diagonal,3,42914,0.9017974730972227
+Final Relative Overall Error,diagonal,3,57186,0.8997268744393235
+Final Relative Overall Error,diagonal,3,71457,0.8930529004527996
+Final Relative Overall Error,diagonal,3,85729,0.8854997070828027
+Final Relative Overall Error,diagonal,3,100000,0.8879150882310675
+Final Relative Overall Error,diagonal,4,100,0.97053697977987
+Final Relative Overall Error,diagonal,4,14371,0.8745207612040868
+Final Relative Overall Error,diagonal,4,28643,0.8761669218096775
+Final Relative Overall Error,diagonal,4,42914,0.873201101469034
+Final Relative Overall Error,diagonal,4,57186,0.8722423085751695
+Final Relative Overall Error,diagonal,4,71457,0.8711644722428701
+Final Relative Overall Error,diagonal,4,85729,0.8967889359320836
+Final Relative Overall Error,diagonal,4,100000,0.8871170534649208
+Final Relative Overall Error,diagonal,5,100,0.9521617000392668
+Final Relative Overall Error,diagonal,5,14371,0.8637892865871116
+Final Relative Overall Error,diagonal,5,28643,0.8668625447198115
+Final Relative Overall Error,diagonal,5,42914,0.8594518974130958
+Final Relative Overall Error,diagonal,5,57186,0.8585012968624041
+Final Relative Overall Error,diagonal,5,71457,0.8822532915793843
+Final Relative Overall Error,diagonal,5,85729,0.8780845758029219
+Final Relative Overall Error,diagonal,5,100000,0.873671531539016
+Final Relative Overall Error,ar_correlated,2,100,0.9727359553573336
+Final Relative Overall Error,ar_correlated,2,14371,0.9262633463687779
+Final Relative Overall Error,ar_correlated,2,28643,0.9270660989869031
+Final Relative Overall Error,ar_correlated,2,42914,0.9332956069604466
+Final Relative Overall Error,ar_correlated,2,57186,0.93001209368039
+Final Relative Overall Error,ar_correlated,2,71457,0.9250360543532572
+Final Relative Overall Error,ar_correlated,2,85729,0.9260561266957787
+Final Relative Overall Error,ar_correlated,2,100000,0.9247262808848772
+Final Relative Overall Error,ar_correlated,3,100,0.9550612668429692
+Final Relative Overall Error,ar_correlated,3,14371,0.9325582857320586
+Final Relative Overall Error,ar_correlated,3,28643,0.936884269587195
+Final Relative Overall Error,ar_correlated,3,42914,0.9275798167451226
+Final Relative Overall Error,ar_correlated,3,57186,0.9332301075289445
+Final Relative Overall Error,ar_correlated,3,71457,0.9269203160139653
+Final Relative Overall Error,ar_correlated,3,85729,0.9341923269909174
+Final Relative Overall Error,ar_correlated,3,100000,0.9342915246684439
+Final Relative Overall Error,ar_correlated,4,100,0.9582166906116186
+Final Relative Overall Error,ar_correlated,4,14371,0.9200204449061262
+Final Relative Overall Error,ar_correlated,4,28643,0.9258603959709124
+Final Relative Overall Error,ar_correlated,4,42914,0.9208274871303181
+Final Relative Overall Error,ar_correlated,4,57186,0.9295164498842176
+Final Relative Overall Error,ar_correlated,4,71457,0.9204293903574521
+Final Relative Overall Error,ar_correlated,4,85729,0.9209369334133881
+Final Relative Overall Error,ar_correlated,4,100000,0.9239943104446466
+Final Relative Overall Error,ar_correlated,5,100,0.9480810722881126
+Final Relative Overall Error,ar_correlated,5,14371,0.9207362608376798
+Final Relative Overall Error,ar_correlated,5,28643,0.9243014751850592
+Final Relative Overall Error,ar_correlated,5,42914,0.9105121144680363
+Final Relative Overall Error,ar_correlated,5,57186,0.9200071550395927
+Final Relative Overall Error,ar_correlated,5,71457,0.920200725342618
+Final Relative Overall Error,ar_correlated,5,85729,0.9196666564598938
+Final Relative Overall Error,ar_correlated,5,100000,0.9290765247825344
+Final Relative Overall Error,independent_linear_combination,2,100,0.956910975524055
+Final Relative Overall Error,independent_linear_combination,2,14371,0.9121098855138376
+Final Relative Overall Error,independent_linear_combination,2,28643,0.9041173181645406
+Final Relative Overall Error,independent_linear_combination,2,42914,0.9006910526607896
+Final Relative Overall Error,independent_linear_combination,2,57186,0.892939659386706
+Final Relative Overall Error,independent_linear_combination,2,71457,0.899589699259429
+Final Relative Overall Error,independent_linear_combination,2,85729,0.8975019252606365
+Final Relative Overall Error,independent_linear_combination,2,100000,0.9194353022422497
+Final Relative Overall Error,independent_linear_combination,3,100,0.9238497676904954
+Final Relative Overall Error,independent_linear_combination,3,14371,0.7929669971714962
+Final Relative Overall Error,independent_linear_combination,3,28643,0.8631346718178933
+Final Relative Overall Error,independent_linear_combination,3,42914,0.8331624445805971
+Final Relative Overall Error,independent_linear_combination,3,57186,1.122035624464485
+Final Relative Overall Error,independent_linear_combination,3,71457,1.3945065264141594
+Final Relative Overall Error,independent_linear_combination,3,85729,0.8272773363612185
+Final Relative Overall Error,independent_linear_combination,3,100000,1.093916359149563
+Final Relative Overall Error,independent_linear_combination,4,100,0.984119487251126
+Final Relative Overall Error,independent_linear_combination,4,14371,0.7685714500307043
+Final Relative Overall Error,independent_linear_combination,4,28643,0.7795733514225188
+Final Relative Overall Error,independent_linear_combination,4,42914,0.7585757534268066
+Final Relative Overall Error,independent_linear_combination,4,57186,0.773790554371402
+Final Relative Overall Error,independent_linear_combination,4,71457,0.7736674981253017
+Final Relative Overall Error,independent_linear_combination,4,85729,0.7827618022637906
+Final Relative Overall Error,independent_linear_combination,4,100000,0.7738166944235084
+Final Relative Overall Error,independent_linear_combination,5,100,0.8771086049970255
+Final Relative Overall Error,independent_linear_combination,5,14371,0.6988207965828357
+Final Relative Overall Error,independent_linear_combination,5,28643,0.6805049169136507
+Final Relative Overall Error,independent_linear_combination,5,42914,0.6743826962406024
+Final Relative Overall Error,independent_linear_combination,5,57186,0.6688425580806837
+Final Relative Overall Error,independent_linear_combination,5,71457,0.6698016431148477
+Final Relative Overall Error,independent_linear_combination,5,85729,0.6789015280982391
+Final Relative Overall Error,independent_linear_combination,5,100000,0.6768803034398028
+Final Relative Overall Error,random,2,100,0.9708573376541192
+Final Relative Overall Error,random,2,14371,0.8905490119947772
+Final Relative Overall Error,random,2,28643,0.9127202681767689
+Final Relative Overall Error,random,2,42914,0.9074111500719105
+Final Relative Overall Error,random,2,57186,0.8960127263271794
+Final Relative Overall Error,random,2,71457,0.911374429527651
+Final Relative Overall Error,random,2,85729,0.9029367062549224
+Final Relative Overall Error,random,2,100000,0.9113026877553541
+Final Relative Overall Error,random,3,100,0.9573011075990325
+Final Relative Overall Error,random,3,14371,0.8832794516270251
+Final Relative Overall Error,random,3,28643,0.8731761128720334
+Final Relative Overall Error,random,3,42914,0.8843621160384648
+Final Relative Overall Error,random,3,57186,0.8673647959813741
+Final Relative Overall Error,random,3,71457,0.8692655368703857
+Final Relative Overall Error,random,3,85729,0.8757903125094715
+Final Relative Overall Error,random,3,100000,0.8863107006191556
+Final Relative Overall Error,random,4,100,0.910989886393385
+Final Relative Overall Error,random,4,14371,0.8568124252730983
+Final Relative Overall Error,random,4,28643,0.8675003128374706
+Final Relative Overall Error,random,4,42914,0.8792322041680787
+Final Relative Overall Error,random,4,57186,0.8818033130764875
+Final Relative Overall Error,random,4,71457,0.879618054241801
+Final Relative Overall Error,random,4,85729,0.8682653273132002
+Final Relative Overall Error,random,4,100000,0.8969389391438816
+Final Relative Overall Error,random,5,100,0.957205135306801
+Final Relative Overall Error,random,5,14371,0.8381635436995726
+Final Relative Overall Error,random,5,28643,0.8264455654190703
+Final Relative Overall Error,random,5,42914,0.8419968407522479
+Final Relative Overall Error,random,5,57186,0.8239398273725947
+Final Relative Overall Error,random,5,71457,0.8291469987927641
+Final Relative Overall Error,random,5,85729,0.843383177763218
+Final Relative Overall Error,random,5,100000,0.819930779359287
+Total Time (seconds),isotropic,2,100,31.376052265746694
+Total Time (seconds),isotropic,2,14371,48.983409729000414
+Total Time (seconds),isotropic,2,28643,66.97205905711962
+Total Time (seconds),isotropic,2,42914,80.14055796325192
+Total Time (seconds),isotropic,2,57186,92.47562181749527
+Total Time (seconds),isotropic,2,71457,104.98518358337606
+Total Time (seconds),isotropic,2,85729,118.04022092175
+Total Time (seconds),isotropic,2,100000,129.3844672031264
+Total Time (seconds),isotropic,3,100,20.40025864587733
+Total Time (seconds),isotropic,3,14371,61.470024140733585
+Total Time (seconds),isotropic,3,28643,80.19047068236978
+Total Time (seconds),isotropic,3,42914,99.08771480224823
+Total Time (seconds),isotropic,3,57186,115.22500998437681
+Total Time (seconds),isotropic,3,71457,132.31189274462304
+Total Time (seconds),isotropic,3,85729,148.65941007823858
+Total Time (seconds),isotropic,3,100000,163.52536586976566
+Total Time (seconds),isotropic,4,100,27.161151791500743
+Total Time (seconds),isotropic,4,14371,92.13909683862585
+Total Time (seconds),isotropic,4,28643,145.37230916649423
+Total Time (seconds),isotropic,4,42914,173.974086635375
+Total Time (seconds),isotropic,4,57186,196.33283505211875
+Total Time (seconds),isotropic,4,71457,220.5719128853816
+Total Time (seconds),isotropic,4,85729,241.5590259217497
+Total Time (seconds),isotropic,4,100000,263.97138577099395
+Total Time (seconds),isotropic,5,100,23.74337991673383
+Total Time (seconds),isotropic,5,14371,98.31689246427933
+Total Time (seconds),isotropic,5,28643,147.4832903928639
+Total Time (seconds),isotropic,5,42914,138.73825254157418
+Total Time (seconds),isotropic,5,57186,171.1609368214184
+Total Time (seconds),isotropic,5,71457,208.9664975474339
+Total Time (seconds),isotropic,5,85729,249.40099389901818
+Total Time (seconds),isotropic,5,100000,236.25773442871701
+Total Time (seconds),diagonal,2,100,24.89431949498976
+Total Time (seconds),diagonal,2,14371,54.12633238538547
+Total Time (seconds),diagonal,2,28643,67.72394171349879
+Total Time (seconds),diagonal,2,42914,80.6002584270027
+Total Time (seconds),diagonal,2,57186,93.09229034875898
+Total Time (seconds),diagonal,2,71457,97.99492188023578
+Total Time (seconds),diagonal,2,85729,111.35610122900107
+Total Time (seconds),diagonal,2,100000,131.28877047899732
+Total Time (seconds),diagonal,3,100,23.404596776264952
+Total Time (seconds),diagonal,3,14371,61.862684489635285
+Total Time (seconds),diagonal,3,28643,80.15679070311307
+Total Time (seconds),diagonal,3,42914,96.72879107288463
+Total Time (seconds),diagonal,3,57186,105.66895092686173
+Total Time (seconds),diagonal,3,71457,130.34494035412354
+Total Time (seconds),diagonal,3,85729,144.6906582551237
+Total Time (seconds),diagonal,3,100000,159.66800523974962
+Total Time (seconds),diagonal,4,100,29.70154684899171
+Total Time (seconds),diagonal,4,14371,90.92905552075536
+Total Time (seconds),diagonal,4,28643,122.3802072394974
+Total Time (seconds),diagonal,4,42914,146.56565114561818
+Total Time (seconds),diagonal,4,57186,169.44299336448603
+Total Time (seconds),diagonal,4,71457,190.93120889074635
+Total Time (seconds),diagonal,4,85729,189.6430677344979
+Total Time (seconds),diagonal,4,100000,229.36206373924506
+Total Time (seconds),diagonal,5,100,51.23756042711466
+Total Time (seconds),diagonal,5,14371,130.8560131771228
+Total Time (seconds),diagonal,5,28643,177.26805252624035
+Total Time (seconds),diagonal,5,42914,219.03236201575055
+Total Time (seconds),diagonal,5,57186,239.94599110412673
+Total Time (seconds),diagonal,5,71457,264.8826886302413
+Total Time (seconds),diagonal,5,85729,295.36544649473944
+Total Time (seconds),diagonal,5,100000,319.38070108350075
+Total Time (seconds),ar_correlated,2,100,20.45838755236764
+Total Time (seconds),ar_correlated,2,14371,53.46265196862805
+Total Time (seconds),ar_correlated,2,28643,60.15583622374106
+Total Time (seconds),ar_correlated,2,42914,79.55862466138205
+Total Time (seconds),ar_correlated,2,57186,86.5254764112542
+Total Time (seconds),ar_correlated,2,71457,100.61590788525791
+Total Time (seconds),ar_correlated,2,85729,101.924287802256
+Total Time (seconds),ar_correlated,2,100000,119.12766691150318
+Total Time (seconds),ar_correlated,3,100,26.130331807755283
+Total Time (seconds),ar_correlated,3,14371,56.63054063670903
+Total Time (seconds),ar_correlated,3,28643,74.78593876799901
+Total Time (seconds),ar_correlated,3,42914,95.38420589885209
+Total Time (seconds),ar_correlated,3,57186,104.55532173213682
+Total Time (seconds),ar_correlated,3,71457,127.77911270241852
+Total Time (seconds),ar_correlated,3,85729,144.84467107812088
+Total Time (seconds),ar_correlated,3,100000,161.0784025299945
+Total Time (seconds),ar_correlated,4,100,34.76431013538968
+Total Time (seconds),ar_correlated,4,14371,86.59421334887156
+Total Time (seconds),ar_correlated,4,28643,117.38611746325478
+Total Time (seconds),ar_correlated,4,42914,143.661938791367
+Total Time (seconds),ar_correlated,4,57186,164.579997000008
+Total Time (seconds),ar_correlated,4,71457,188.11245013536245
+Total Time (seconds),ar_correlated,4,85729,209.67242342712416
+Total Time (seconds),ar_correlated,4,100000,229.22491480749886
+Total Time (seconds),ar_correlated,5,100,43.56843259386369
+Total Time (seconds),ar_correlated,5,14371,139.0241268628493
+Total Time (seconds),ar_correlated,5,28643,180.68675876381653
+Total Time (seconds),ar_correlated,5,42914,208.95342852083073
+Total Time (seconds),ar_correlated,5,57186,236.59445224315277
+Total Time (seconds),ar_correlated,5,71457,268.57668249315856
+Total Time (seconds),ar_correlated,5,85729,302.4723427986707
+Total Time (seconds),ar_correlated,5,100000,325.61943520833546
+Total Time (seconds),independent_linear_combination,2,100,36.76801409887412
+Total Time (seconds),independent_linear_combination,2,14371,57.78180942712788
+Total Time (seconds),independent_linear_combination,2,28643,72.69613125000615
+Total Time (seconds),independent_linear_combination,2,42914,87.72159129700594
+Total Time (seconds),independent_linear_combination,2,57186,102.64263184886659
+Total Time (seconds),independent_linear_combination,2,71457,115.71612161975645
+Total Time (seconds),independent_linear_combination,2,85729,130.37528534386365
+Total Time (seconds),independent_linear_combination,2,100000,144.5562755363717
+Total Time (seconds),independent_linear_combination,3,100,27.229784982145897
+Total Time (seconds),independent_linear_combination,3,14371,60.67860124998593
+Total Time (seconds),independent_linear_combination,3,28643,70.06519364871617
+Total Time (seconds),independent_linear_combination,3,42914,93.27709995832022
+Total Time (seconds),independent_linear_combination,3,57186,90.60232789586735
+Total Time (seconds),independent_linear_combination,3,71457,113.54418327371657
+Total Time (seconds),independent_linear_combination,3,85729,140.52595102066212
+Total Time (seconds),independent_linear_combination,3,100000,142.58425785129657
+Total Time (seconds),independent_linear_combination,4,100,31.393929656500404
+Total Time (seconds),independent_linear_combination,4,14371,91.99868061464076
+Total Time (seconds),independent_linear_combination,4,28643,123.64426271888078
+Total Time (seconds),independent_linear_combination,4,42914,147.5034478126181
+Total Time (seconds),independent_linear_combination,4,57186,167.32204487999115
+Total Time (seconds),independent_linear_combination,4,71457,193.31224836462206
+Total Time (seconds),independent_linear_combination,4,85729,210.8648528959966
+Total Time (seconds),independent_linear_combination,4,100000,234.96725403112214
+Total Time (seconds),independent_linear_combination,5,100,34.507797946280334
+Total Time (seconds),independent_linear_combination,5,14371,138.8509240554995
+Total Time (seconds),independent_linear_combination,5,28643,186.2278600136633
+Total Time (seconds),independent_linear_combination,5,42914,224.4289756528548
+Total Time (seconds),independent_linear_combination,5,57186,257.47708449315786
+Total Time (seconds),independent_linear_combination,5,71457,277.5565447639965
+Total Time (seconds),independent_linear_combination,5,85729,307.8911710556519
+Total Time (seconds),independent_linear_combination,5,100000,334.777170263842
+Total Time (seconds),random,2,100,12.29415465114289
+Total Time (seconds),random,2,14371,53.74299064074876
+Total Time (seconds),random,2,28643,68.2252590521166
+Total Time (seconds),random,2,42914,80.15745391150267
+Total Time (seconds),random,2,57186,85.87848958325776
+Total Time (seconds),random,2,71457,104.66482293762238
+Total Time (seconds),random,2,85729,116.87752819274465
+Total Time (seconds),random,2,100000,128.82914181738306
+Total Time (seconds),random,3,100,27.288332182375598
+Total Time (seconds),random,3,14371,60.49457525525213
+Total Time (seconds),random,3,28643,84.4496999687617
+Total Time (seconds),random,3,42914,105.76338103110902
+Total Time (seconds),random,3,57186,123.42251109900099
+Total Time (seconds),random,3,71457,136.71232053150015
+Total Time (seconds),random,3,85729,159.81579594261711
+Total Time (seconds),random,3,100000,176.15204609386274
+Total Time (seconds),random,4,100,43.78834468212153
+Total Time (seconds),random,4,14371,91.83242289612099
+Total Time (seconds),random,4,28643,118.1350703539938
+Total Time (seconds),random,4,42914,141.74069701562257
+Total Time (seconds),random,4,57186,163.34939925013896
+Total Time (seconds),random,4,71457,187.74284529175202
+Total Time (seconds),random,4,85729,211.3747561978962
+Total Time (seconds),random,4,100000,215.8445037190104
+Total Time (seconds),random,5,100,49.83985164587648
+Total Time (seconds),random,5,14371,130.63617614567434
+Total Time (seconds),random,5,28643,165.25875047916392
+Total Time (seconds),random,5,42914,216.2689645624972
+Total Time (seconds),random,5,57186,246.82096769451164
+Total Time (seconds),random,5,71457,269.9676112221787
+Total Time (seconds),random,5,85729,293.05110926382866
+Total Time (seconds),random,5,100000,330.736769416515
+Average Time per Iteration (seconds),isotropic,2,100,0.03776146005942846
+Average Time per Iteration (seconds),isotropic,2,14371,0.05225147796196271
+Average Time per Iteration (seconds),isotropic,2,28643,0.06540240142296834
+Average Time per Iteration (seconds),isotropic,2,42914,0.07826226363598815
+Average Time per Iteration (seconds),isotropic,2,57186,0.0903082244311477
+Average Time per Iteration (seconds),isotropic,2,71457,0.10252459334314062
+Average Time per Iteration (seconds),isotropic,2,85729,0.11527365324389645
+Average Time per Iteration (seconds),isotropic,2,100000,0.12635201875305307
+Average Time per Iteration (seconds),isotropic,3,100,0.038202777983470236
+Average Time per Iteration (seconds),isotropic,3,14371,0.06109690714760006
+Average Time per Iteration (seconds),isotropic,3,28643,0.07971511611353639
+Average Time per Iteration (seconds),isotropic,3,42914,0.09676534648657048
+Average Time per Iteration (seconds),isotropic,3,57186,0.11252442381286792
+Average Time per Iteration (seconds),isotropic,3,71457,0.1292108327584209
+Average Time per Iteration (seconds),isotropic,3,85729,0.14517520515452983
+Average Time per Iteration (seconds),isotropic,3,100000,0.159692740107193
+Average Time per Iteration (seconds),isotropic,4,100,0.05324142857215966
+Average Time per Iteration (seconds),isotropic,4,14371,0.11727477585363029
+Average Time per Iteration (seconds),isotropic,4,28643,0.14196514567040447
+Average Time per Iteration (seconds),isotropic,4,42914,0.16989656897985836
+Average Time per Iteration (seconds),isotropic,4,57186,0.1917312842305847
+Average Time per Iteration (seconds),isotropic,4,71457,0.21540225867713042
+Average Time per Iteration (seconds),isotropic,4,85729,0.23589748625170867
+Average Time per Iteration (seconds),isotropic,4,100000,0.2577845564169863
+Average Time per Iteration (seconds),isotropic,5,100,0.057525884811144026
+Average Time per Iteration (seconds),isotropic,5,14371,0.10902802767401287
+Average Time per Iteration (seconds),isotropic,5,28643,0.14402665077428112
+Average Time per Iteration (seconds),isotropic,5,42914,0.17789836930219421
+Average Time per Iteration (seconds),isotropic,5,57186,0.19955217031119782
+Average Time per Iteration (seconds),isotropic,5,71457,0.21911322554152055
+Average Time per Iteration (seconds),isotropic,5,85729,0.24355565810450994
+Average Time per Iteration (seconds),isotropic,5,100000,0.2695216186155352
+Average Time per Iteration (seconds),diagonal,2,100,0.037987532864589876
+Average Time per Iteration (seconds),diagonal,2,14371,0.05285774647010296
+Average Time per Iteration (seconds),diagonal,2,28643,0.06613666182958862
+Average Time per Iteration (seconds),diagonal,2,42914,0.07871118987011977
+Average Time per Iteration (seconds),diagonal,2,57186,0.09091043979370989
+Average Time per Iteration (seconds),diagonal,2,71457,0.10456321800671071
+Average Time per Iteration (seconds),diagonal,2,85729,0.11679747322053391
+Average Time per Iteration (seconds),diagonal,2,100000,0.128458092165019
+Average Time per Iteration (seconds),diagonal,3,100,0.04122542767423031
+Average Time per Iteration (seconds),diagonal,3,14371,0.060412777821909416
+Average Time per Iteration (seconds),diagonal,3,28643,0.0782781159210088
+Average Time per Iteration (seconds),diagonal,3,42914,0.09446171003211384
+Average Time per Iteration (seconds),diagonal,3,57186,0.11178501367701331
+Average Time per Iteration (seconds),diagonal,3,71457,0.1272899808145737
+Average Time per Iteration (seconds),diagonal,3,85729,0.14129947095226922
+Average Time per Iteration (seconds),diagonal,3,100000,0.15592578636694296
+Average Time per Iteration (seconds),diagonal,4,100,0.04934035491348403
+Average Time per Iteration (seconds),diagonal,4,14371,0.0887979057819876
+Average Time per Iteration (seconds),diagonal,4,28643,0.11951192113232165
+Average Time per Iteration (seconds),diagonal,4,42914,0.14457168234205683
+Average Time per Iteration (seconds),diagonal,4,57186,0.16547167320750583
+Average Time per Iteration (seconds),diagonal,4,71457,0.18645625868236945
+Average Time per Iteration (seconds),diagonal,4,85729,0.21259638520575075
+Average Time per Iteration (seconds),diagonal,4,100000,0.2270988351463892
+Average Time per Iteration (seconds),diagonal,5,100,0.06340978914756357
+Average Time per Iteration (seconds),diagonal,5,14371,0.12778907536828396
+Average Time per Iteration (seconds),diagonal,5,28643,0.17311333254515657
+Average Time per Iteration (seconds),diagonal,5,42914,0.21389879103100634
+Average Time per Iteration (seconds),diagonal,5,57186,0.23432225693762374
+Average Time per Iteration (seconds),diagonal,5,71457,0.26830524897109337
+Average Time per Iteration (seconds),diagonal,5,85729,0.288442818842519
+Average Time per Iteration (seconds),diagonal,5,100000,0.3118952159018562
+Average Time per Iteration (seconds),ar_correlated,2,100,0.03714716010803275
+Average Time per Iteration (seconds),ar_correlated,2,14371,0.052209621063113276
+Average Time per Iteration (seconds),ar_correlated,2,28643,0.0664085286322832
+Average Time per Iteration (seconds),ar_correlated,2,42914,0.07769396939588087
+Average Time per Iteration (seconds),ar_correlated,2,57186,0.09015245670677306
+Average Time per Iteration (seconds),ar_correlated,2,71457,0.10026234973618882
+Average Time per Iteration (seconds),ar_correlated,2,85729,0.1146782462430816
+Average Time per Iteration (seconds),ar_correlated,2,100000,0.12407864121803011
+Average Time per Iteration (seconds),ar_correlated,3,100,0.04030076058147512
+Average Time per Iteration (seconds),ar_correlated,3,14371,0.05899312236201888
+Average Time per Iteration (seconds),ar_correlated,3,28643,0.07625670865317784
+Average Time per Iteration (seconds),ar_correlated,3,42914,0.09314863857309767
+Average Time per Iteration (seconds),ar_correlated,3,57186,0.10930476987587019
+Average Time per Iteration (seconds),ar_correlated,3,71457,0.12478428974845555
+Average Time per Iteration (seconds),ar_correlated,3,85729,0.14144987409972737
+Average Time per Iteration (seconds),ar_correlated,3,100000,0.15730312747069772
+Average Time per Iteration (seconds),ar_correlated,4,100,0.0517595830899742
+Average Time per Iteration (seconds),ar_correlated,4,14371,0.08456466147350734
+Average Time per Iteration (seconds),ar_correlated,4,28643,0.1146348803352097
+Average Time per Iteration (seconds),ar_correlated,4,42914,0.1402948621009443
+Average Time per Iteration (seconds),ar_correlated,4,57186,0.1607226533203203
+Average Time per Iteration (seconds),ar_correlated,4,71457,0.18370356458531487
+Average Time per Iteration (seconds),ar_correlated,4,85729,0.2047582260030509
+Average Time per Iteration (seconds),ar_correlated,4,100000,0.22385245586669808
+Average Time per Iteration (seconds),ar_correlated,5,100,0.06452042046352449
+Average Time per Iteration (seconds),ar_correlated,5,14371,0.13576574888950124
+Average Time per Iteration (seconds),ar_correlated,5,28643,0.1764519128552895
+Average Time per Iteration (seconds),ar_correlated,5,42914,0.20405608253987373
+Average Time per Iteration (seconds),ar_correlated,5,57186,0.23990789788776876
+Average Time per Iteration (seconds),ar_correlated,5,71457,0.26647664910576446
+Average Time per Iteration (seconds),ar_correlated,5,85729,0.2953831472643268
+Average Time per Iteration (seconds),ar_correlated,5,100000,0.31798772969564004
+Average Time per Iteration (seconds),independent_linear_combination,2,100,0.03982742964922763
+Average Time per Iteration (seconds),independent_linear_combination,2,14371,0.056427548268679524
+Average Time per Iteration (seconds),independent_linear_combination,2,28643,0.07099231567383409
+Average Time per Iteration (seconds),independent_linear_combination,2,42914,0.08566561650098233
+Average Time per Iteration (seconds),independent_linear_combination,2,57186,0.10023694516490872
+Average Time per Iteration (seconds),independent_linear_combination,2,71457,0.11300402501929337
+Average Time per Iteration (seconds),independent_linear_combination,2,85729,0.12731961459361682
+Average Time per Iteration (seconds),independent_linear_combination,2,100000,0.14116823782848795
+Average Time per Iteration (seconds),independent_linear_combination,3,100,0.0390907012879231
+Average Time per Iteration (seconds),independent_linear_combination,3,14371,0.059256446533189344
+Average Time per Iteration (seconds),independent_linear_combination,3,28643,0.07909658101813914
+Average Time per Iteration (seconds),independent_linear_combination,3,42914,0.09109091792804706
+Average Time per Iteration (seconds),independent_linear_combination,3,57186,0.1104088826355991
+Average Time per Iteration (seconds),independent_linear_combination,3,71457,0.12748810556904272
+Average Time per Iteration (seconds),independent_linear_combination,3,85729,0.13723237404361532
+Average Time per Iteration (seconds),independent_linear_combination,3,100000,0.16123192356187296
+Average Time per Iteration (seconds),independent_linear_combination,4,100,0.05135720698869686
+Average Time per Iteration (seconds),independent_linear_combination,4,14371,0.08984246153773509
+Average Time per Iteration (seconds),independent_linear_combination,4,28643,0.12074635031140696
+Average Time per Iteration (seconds),independent_linear_combination,4,42914,0.14404633575450984
+Average Time per Iteration (seconds),independent_linear_combination,4,57186,0.1634004344531163
+Average Time per Iteration (seconds),independent_linear_combination,4,71457,0.1887814925435762
+Average Time per Iteration (seconds),independent_linear_combination,4,85729,0.20592270790624662
+Average Time per Iteration (seconds),independent_linear_combination,4,100000,0.22946020901476766
+Average Time per Iteration (seconds),independent_linear_combination,5,100,0.061437080147344655
+Average Time per Iteration (seconds),independent_linear_combination,5,14371,0.1355966055229487
+Average Time per Iteration (seconds),independent_linear_combination,5,28643,0.18186314454459304
+Average Time per Iteration (seconds),independent_linear_combination,5,42914,0.219168921535991
+Average Time per Iteration (seconds),independent_linear_combination,5,57186,0.2514424653253494
+Average Time per Iteration (seconds),independent_linear_combination,5,71457,0.2710513132460903
+Average Time per Iteration (seconds),independent_linear_combination,5,85729,0.30067497173403507
+Average Time per Iteration (seconds),independent_linear_combination,5,100000,0.32693083033578313
+Average Time per Iteration (seconds),random,2,100,0.03834300267556305
+Average Time per Iteration (seconds),random,2,14371,0.05248338929760616
+Average Time per Iteration (seconds),random,2,28643,0.06662622954308257
+Average Time per Iteration (seconds),random,2,42914,0.07827876358545179
+Average Time per Iteration (seconds),random,2,57186,0.09136248095575263
+Average Time per Iteration (seconds),random,2,71457,0.10221174115002182
+Average Time per Iteration (seconds),random,2,85729,0.11413821112572718
+Average Time per Iteration (seconds),random,2,100000,0.1258097088060381
+Average Time per Iteration (seconds),random,3,100,0.043186982144450374
+Average Time per Iteration (seconds),random,3,14371,0.0661782644136699
+Average Time per Iteration (seconds),random,3,28643,0.08524160168026847
+Average Time per Iteration (seconds),random,3,42914,0.10328455178819235
+Average Time per Iteration (seconds),random,3,57186,0.12052979599511811
+Average Time per Iteration (seconds),random,3,71457,0.13770560498469253
+Average Time per Iteration (seconds),random,3,85729,0.15607011322521197
+Average Time per Iteration (seconds),random,3,100000,0.17202348251353777
+Average Time per Iteration (seconds),random,4,100,0.05306400634379024
+Average Time per Iteration (seconds),random,4,14371,0.08968010048449311
+Average Time per Iteration (seconds),random,4,28643,0.11536627964257204
+Average Time per Iteration (seconds),random,4,42914,0.13935466950818423
+Average Time per Iteration (seconds),random,4,57186,0.1614398776504341
+Average Time per Iteration (seconds),random,4,71457,0.18334262235522655
+Average Time per Iteration (seconds),random,4,85729,0.20642066034950798
+Average Time per Iteration (seconds),random,4,100000,0.23243944992971502
+Average Time per Iteration (seconds),random,5,100,0.053834739821598615
+Average Time per Iteration (seconds),random,5,14371,0.12780476501933716
+Average Time per Iteration (seconds),random,5,28643,0.17462554448357534
+Average Time per Iteration (seconds),random,5,42914,0.2112001607055636
+Average Time per Iteration (seconds),random,5,57186,0.24103610126417152
+Average Time per Iteration (seconds),random,5,71457,0.2636402453341588
+Average Time per Iteration (seconds),random,5,85729,0.2861827238904577
+Average Time per Iteration (seconds),random,5,100000,0.32298512638331545

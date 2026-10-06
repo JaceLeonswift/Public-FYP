@@ -1,0 +1,421 @@
+metric,family,dimension,test value,metric value
+Overall Error AUC,isotropic,2,IMP,0.4185432611152644
+Overall Error AUC,isotropic,2,PSGD,0.3591353683935067
+Overall Error AUC,isotropic,2,SAEM,0.3288654266128713
+Overall Error AUC,isotropic,3,IMP,0.49497912492680446
+Overall Error AUC,isotropic,3,PSGD,0.43827688320059827
+Overall Error AUC,isotropic,3,SAEM,0.380378685173225
+Overall Error AUC,isotropic,4,IMP,0.6237065496700396
+Overall Error AUC,isotropic,4,PSGD,0.5265773675233032
+Overall Error AUC,isotropic,4,SAEM,0.4737527276920668
+Overall Error AUC,isotropic,5,IMP,0.5711369298458002
+Overall Error AUC,isotropic,5,PSGD,0.5114036829600163
+Overall Error AUC,isotropic,5,SAEM,0.42814789294583255
+Overall Error AUC,diagonal,2,IMP,0.4977501148151017
+Overall Error AUC,diagonal,2,PSGD,0.4454709868181488
+Overall Error AUC,diagonal,2,SAEM,0.3827147048948292
+Overall Error AUC,diagonal,3,IMP,0.5864176527869118
+Overall Error AUC,diagonal,3,PSGD,0.5181453035085344
+Overall Error AUC,diagonal,3,SAEM,0.4623867087414581
+Overall Error AUC,diagonal,4,IMP,0.5371293817081959
+Overall Error AUC,diagonal,4,PSGD,0.4777129337552272
+Overall Error AUC,diagonal,4,SAEM,0.41180106144292383
+Overall Error AUC,diagonal,5,IMP,0.5624855564255052
+Overall Error AUC,diagonal,5,PSGD,0.49672188621101115
+Overall Error AUC,diagonal,5,SAEM,0.42608624453801014
+Overall Error AUC,ar_correlated,2,IMP,0.4841229974135429
+Overall Error AUC,ar_correlated,2,PSGD,0.45903328168909363
+Overall Error AUC,ar_correlated,2,SAEM,0.3891931693660762
+Overall Error AUC,ar_correlated,3,IMP,0.5758792983953611
+Overall Error AUC,ar_correlated,3,PSGD,0.5388892589060891
+Overall Error AUC,ar_correlated,3,SAEM,0.4482505374000807
+Overall Error AUC,ar_correlated,4,IMP,0.486277605705298
+Overall Error AUC,ar_correlated,4,PSGD,0.4588028386892309
+Overall Error AUC,ar_correlated,4,SAEM,0.3792944014523377
+Overall Error AUC,ar_correlated,5,IMP,0.8594873578751423
+Overall Error AUC,ar_correlated,5,PSGD,0.7901912528137958
+Overall Error AUC,ar_correlated,5,SAEM,0.6649745026885769
+Overall Error AUC,independent_linear_combination,2,IMP,0.9254748469192798
+Overall Error AUC,independent_linear_combination,2,PSGD,0.6724780408510945
+Overall Error AUC,independent_linear_combination,2,SAEM,0.7369371382109533
+Overall Error AUC,independent_linear_combination,3,IMP,1.2324732974706183
+Overall Error AUC,independent_linear_combination,3,PSGD,0.895470284043504
+Overall Error AUC,independent_linear_combination,3,SAEM,0.9855891928787834
+Overall Error AUC,independent_linear_combination,4,IMP,2.366981680234531
+Overall Error AUC,independent_linear_combination,4,PSGD,0.9915983084293272
+Overall Error AUC,independent_linear_combination,4,SAEM,1.8461563284590015
+Overall Error AUC,independent_linear_combination,5,IMP,1.5545907182005747
+Overall Error AUC,independent_linear_combination,5,PSGD,1.0576383487075012
+Overall Error AUC,independent_linear_combination,5,SAEM,1.356448614643511
+Overall Error AUC,random,2,IMP,0.4440644994632053
+Overall Error AUC,random,2,PSGD,0.40329274265716286
+Overall Error AUC,random,2,SAEM,0.34802657480732263
+Overall Error AUC,random,3,IMP,0.6207431482206427
+Overall Error AUC,random,3,PSGD,0.56522138471107
+Overall Error AUC,random,3,SAEM,0.48826873773892676
+Overall Error AUC,random,4,IMP,0.6156976076638575
+Overall Error AUC,random,4,PSGD,0.5546654862077686
+Overall Error AUC,random,4,SAEM,0.4689188929904324
+Overall Error AUC,random,5,IMP,0.7001497303951951
+Overall Error AUC,random,5,PSGD,0.608090447258016
+Overall Error AUC,random,5,SAEM,0.5442101586076412
+Overall Error Progress AUC,isotropic,2,IMP,0.0
+Overall Error Progress AUC,isotropic,2,PSGD,0.873840343618191
+Overall Error Progress AUC,isotropic,2,SAEM,0.8807793774603225
+Overall Error Progress AUC,isotropic,3,IMP,0.0
+Overall Error Progress AUC,isotropic,3,PSGD,0.8801101475417052
+Overall Error Progress AUC,isotropic,3,SAEM,0.8768554542387468
+Overall Error Progress AUC,isotropic,4,IMP,0.0
+Overall Error Progress AUC,isotropic,4,PSGD,0.8885085224052283
+Overall Error Progress AUC,isotropic,4,SAEM,0.889900718037866
+Overall Error Progress AUC,isotropic,5,IMP,0.0
+Overall Error Progress AUC,isotropic,5,PSGD,0.880959507132568
+Overall Error Progress AUC,isotropic,5,SAEM,0.8913922092986847
+Overall Error Progress AUC,diagonal,2,IMP,0.0
+Overall Error Progress AUC,diagonal,2,PSGD,0.8900871486487385
+Overall Error Progress AUC,diagonal,2,SAEM,0.8865913832715174
+Overall Error Progress AUC,diagonal,3,IMP,0.0
+Overall Error Progress AUC,diagonal,3,PSGD,0.9012221672671092
+Overall Error Progress AUC,diagonal,3,SAEM,0.8767582608021595
+Overall Error Progress AUC,diagonal,4,IMP,0.0
+Overall Error Progress AUC,diagonal,4,PSGD,0.8861088037649475
+Overall Error Progress AUC,diagonal,4,SAEM,0.8830709875887295
+Overall Error Progress AUC,diagonal,5,IMP,0.0
+Overall Error Progress AUC,diagonal,5,PSGD,0.9014753075596513
+Overall Error Progress AUC,diagonal,5,SAEM,0.8886165556183325
+Overall Error Progress AUC,ar_correlated,2,IMP,0.0
+Overall Error Progress AUC,ar_correlated,2,PSGD,0.860809544599664
+Overall Error Progress AUC,ar_correlated,2,SAEM,0.8749028051697658
+Overall Error Progress AUC,ar_correlated,3,IMP,0.0
+Overall Error Progress AUC,ar_correlated,3,PSGD,0.8696517853246477
+Overall Error Progress AUC,ar_correlated,3,SAEM,0.8843805264468878
+Overall Error Progress AUC,ar_correlated,4,IMP,0.0
+Overall Error Progress AUC,ar_correlated,4,PSGD,0.872684060558635
+Overall Error Progress AUC,ar_correlated,4,SAEM,0.8815452501598743
+Overall Error Progress AUC,ar_correlated,5,IMP,0.0
+Overall Error Progress AUC,ar_correlated,5,PSGD,0.8700756339753684
+Overall Error Progress AUC,ar_correlated,5,SAEM,0.8856595220006553
+Overall Error Progress AUC,independent_linear_combination,2,IMP,0.0
+Overall Error Progress AUC,independent_linear_combination,2,PSGD,0.9284381955493444
+Overall Error Progress AUC,independent_linear_combination,2,SAEM,0.8816943462585445
+Overall Error Progress AUC,independent_linear_combination,3,IMP,0.0
+Overall Error Progress AUC,independent_linear_combination,3,PSGD,0.900330743467382
+Overall Error Progress AUC,independent_linear_combination,3,SAEM,0.8830984510091973
+Overall Error Progress AUC,independent_linear_combination,4,IMP,0.0
+Overall Error Progress AUC,independent_linear_combination,4,PSGD,0.8867357469093636
+Overall Error Progress AUC,independent_linear_combination,4,SAEM,0.8790198995534592
+Overall Error Progress AUC,independent_linear_combination,5,IMP,0.0
+Overall Error Progress AUC,independent_linear_combination,5,PSGD,0.8973084641759392
+Overall Error Progress AUC,independent_linear_combination,5,SAEM,0.8740880650079783
+Overall Error Progress AUC,random,2,IMP,0.0
+Overall Error Progress AUC,random,2,PSGD,0.8818273824298449
+Overall Error Progress AUC,random,2,SAEM,0.8884697822404247
+Overall Error Progress AUC,random,3,IMP,0.0
+Overall Error Progress AUC,random,3,PSGD,0.8533141580380824
+Overall Error Progress AUC,random,3,SAEM,0.8861479854688074
+Overall Error Progress AUC,random,4,IMP,0.0
+Overall Error Progress AUC,random,4,PSGD,0.8614186315924274
+Overall Error Progress AUC,random,4,SAEM,0.8894099779952301
+Overall Error Progress AUC,random,5,IMP,0.0
+Overall Error Progress AUC,random,5,PSGD,0.8851868318289962
+Overall Error Progress AUC,random,5,SAEM,0.8803421069567184
+Final Relative Parameter Cauchy,isotropic,2,IMP,0.0
+Final Relative Parameter Cauchy,isotropic,2,PSGD,0.0007062433234554875
+Final Relative Parameter Cauchy,isotropic,2,SAEM,0.0013207486346983625
+Final Relative Parameter Cauchy,isotropic,3,IMP,0.0
+Final Relative Parameter Cauchy,isotropic,3,PSGD,0.000995542468567225
+Final Relative Parameter Cauchy,isotropic,3,SAEM,0.001806889242427025
+Final Relative Parameter Cauchy,isotropic,4,IMP,0.0
+Final Relative Parameter Cauchy,isotropic,4,PSGD,0.0006278976021719375
+Final Relative Parameter Cauchy,isotropic,4,SAEM,0.00154280891813295
+Final Relative Parameter Cauchy,isotropic,5,IMP,0.0
+Final Relative Parameter Cauchy,isotropic,5,PSGD,0.0008701931620999429
+Final Relative Parameter Cauchy,isotropic,5,SAEM,0.001480500076650457
+Final Relative Parameter Cauchy,diagonal,2,IMP,0.0
+Final Relative Parameter Cauchy,diagonal,2,PSGD,0.001286582349213225
+Final Relative Parameter Cauchy,diagonal,2,SAEM,0.0020738067882726877
+Final Relative Parameter Cauchy,diagonal,3,IMP,0.0
+Final Relative Parameter Cauchy,diagonal,3,PSGD,0.0010610364161605375
+Final Relative Parameter Cauchy,diagonal,3,SAEM,0.0020133542669885877
+Final Relative Parameter Cauchy,diagonal,4,IMP,0.0
+Final Relative Parameter Cauchy,diagonal,4,PSGD,0.0006966499156557375
+Final Relative Parameter Cauchy,diagonal,4,SAEM,0.0015049620535594625
+Final Relative Parameter Cauchy,diagonal,5,IMP,0.0
+Final Relative Parameter Cauchy,diagonal,5,PSGD,0.000777505010248175
+Final Relative Parameter Cauchy,diagonal,5,SAEM,0.001449898353819575
+Final Relative Parameter Cauchy,ar_correlated,2,IMP,0.0
+Final Relative Parameter Cauchy,ar_correlated,2,PSGD,0.0013287681029597875
+Final Relative Parameter Cauchy,ar_correlated,2,SAEM,0.0028466894516250376
+Final Relative Parameter Cauchy,ar_correlated,3,IMP,0.0
+Final Relative Parameter Cauchy,ar_correlated,3,PSGD,0.0016471918798560499
+Final Relative Parameter Cauchy,ar_correlated,3,SAEM,0.0028674899693813
+Final Relative Parameter Cauchy,ar_correlated,4,IMP,0.0
+Final Relative Parameter Cauchy,ar_correlated,4,PSGD,0.0010040038712101876
+Final Relative Parameter Cauchy,ar_correlated,4,SAEM,0.002268426971144525
+Final Relative Parameter Cauchy,ar_correlated,5,IMP,0.0
+Final Relative Parameter Cauchy,ar_correlated,5,PSGD,0.001521116501877975
+Final Relative Parameter Cauchy,ar_correlated,5,SAEM,0.0029410407399683
+Final Relative Parameter Cauchy,independent_linear_combination,2,IMP,0.0
+Final Relative Parameter Cauchy,independent_linear_combination,2,PSGD,0.0015387533056120625
+Final Relative Parameter Cauchy,independent_linear_combination,2,SAEM,0.002169164239966825
+Final Relative Parameter Cauchy,independent_linear_combination,3,IMP,0.0
+Final Relative Parameter Cauchy,independent_linear_combination,3,PSGD,0.0010539071461289102
+Final Relative Parameter Cauchy,independent_linear_combination,3,SAEM,0.002021397902015
+Final Relative Parameter Cauchy,independent_linear_combination,4,IMP,0.0
+Final Relative Parameter Cauchy,independent_linear_combination,4,PSGD,0.002363397217780914
+Final Relative Parameter Cauchy,independent_linear_combination,4,SAEM,0.002028468234963075
+Final Relative Parameter Cauchy,independent_linear_combination,5,IMP,0.0
+Final Relative Parameter Cauchy,independent_linear_combination,5,PSGD,0.0015966750027915874
+Final Relative Parameter Cauchy,independent_linear_combination,5,SAEM,0.0017367205659671
+Final Relative Parameter Cauchy,random,2,IMP,0.0
+Final Relative Parameter Cauchy,random,2,PSGD,0.0007179050309542375
+Final Relative Parameter Cauchy,random,2,SAEM,0.001301936467798
+Final Relative Parameter Cauchy,random,3,IMP,0.0
+Final Relative Parameter Cauchy,random,3,PSGD,0.0010802684442995376
+Final Relative Parameter Cauchy,random,3,SAEM,0.001806872867274725
+Final Relative Parameter Cauchy,random,4,IMP,0.0
+Final Relative Parameter Cauchy,random,4,PSGD,0.000878903774065025
+Final Relative Parameter Cauchy,random,4,SAEM,0.0016679383939508874
+Final Relative Parameter Cauchy,random,5,IMP,0.0
+Final Relative Parameter Cauchy,random,5,PSGD,0.0007758564413211249
+Final Relative Parameter Cauchy,random,5,SAEM,0.0013887076906701876
+Final Overall Error,isotropic,2,IMP,0.4185432611152644
+Final Overall Error,isotropic,2,PSGD,0.3547685579022384
+Final Overall Error,isotropic,2,SAEM,0.31688669988757434
+Final Overall Error,isotropic,3,IMP,0.49497912492680446
+Final Overall Error,isotropic,3,PSGD,0.4320477027611238
+Final Overall Error,isotropic,3,SAEM,0.36498287107043903
+Final Overall Error,isotropic,4,IMP,0.6237065496700396
+Final Overall Error,isotropic,4,PSGD,0.5183550337842833
+Final Overall Error,isotropic,4,SAEM,0.45521364007017906
+Final Overall Error,isotropic,5,IMP,0.5711369298458002
+Final Overall Error,isotropic,5,PSGD,0.5044511730950515
+Final Overall Error,isotropic,5,SAEM,0.4107669440456286
+Final Overall Error,diagonal,2,IMP,0.4977501148151017
+Final Overall Error,diagonal,2,PSGD,0.4387447371319805
+Final Overall Error,diagonal,2,SAEM,0.3683579966920865
+Final Overall Error,diagonal,3,IMP,0.5864176527869118
+Final Overall Error,diagonal,3,PSGD,0.5101148937807175
+Final Overall Error,diagonal,3,SAEM,0.44529935205752336
+Final Overall Error,diagonal,4,IMP,0.5371293817081959
+Final Overall Error,diagonal,4,PSGD,0.4714601738678825
+Final Overall Error,diagonal,4,SAEM,0.3957717120933295
+Final Overall Error,diagonal,5,IMP,0.5624855564255052
+Final Overall Error,diagonal,5,PSGD,0.4892377164569087
+Final Overall Error,diagonal,5,SAEM,0.4089899895455603
+Final Overall Error,ar_correlated,2,IMP,0.4841229974135429
+Final Overall Error,ar_correlated,2,PSGD,0.455394021414919
+Final Overall Error,ar_correlated,2,SAEM,0.37592297266751645
+Final Overall Error,ar_correlated,3,IMP,0.5758792983953611
+Final Overall Error,ar_correlated,3,PSGD,0.5333252118820897
+Final Overall Error,ar_correlated,3,SAEM,0.4318648353005057
+Final Overall Error,ar_correlated,4,IMP,0.486277605705298
+Final Overall Error,ar_correlated,4,PSGD,0.4553162873055637
+Final Overall Error,ar_correlated,4,SAEM,0.3650533590413629
+Final Overall Error,ar_correlated,5,IMP,0.8594873578751423
+Final Overall Error,ar_correlated,5,PSGD,0.7803898850289329
+Final Overall Error,ar_correlated,5,SAEM,0.6401999177994407
+Final Overall Error,independent_linear_combination,2,IMP,0.9254748469192798
+Final Overall Error,independent_linear_combination,2,PSGD,0.6527809089167512
+Final Overall Error,independent_linear_combination,2,SAEM,0.7110190233849822
+Final Overall Error,independent_linear_combination,3,IMP,1.2324732974706183
+Final Overall Error,independent_linear_combination,3,PSGD,0.870879488901088
+Final Overall Error,independent_linear_combination,3,SAEM,0.9525062095160926
+Final Overall Error,independent_linear_combination,4,IMP,2.366981680234531
+Final Overall Error,independent_linear_combination,4,PSGD,0.9189062714281278
+Final Overall Error,independent_linear_combination,4,SAEM,1.7758180457303594
+Final Overall Error,independent_linear_combination,5,IMP,1.5545907182005747
+Final Overall Error,independent_linear_combination,5,PSGD,0.9793853358671651
+Final Overall Error,independent_linear_combination,5,SAEM,1.3069871703226885
+Final Overall Error,random,2,IMP,0.4440644994632053
+Final Overall Error,random,2,PSGD,0.39690269366999065
+Final Overall Error,random,2,SAEM,0.336001246974516
+Final Overall Error,random,3,IMP,0.6207431482206427
+Final Overall Error,random,3,PSGD,0.5586718702965329
+Final Overall Error,random,3,SAEM,0.4714375533346383
+Final Overall Error,random,4,IMP,0.6156976076638575
+Final Overall Error,random,4,PSGD,0.5459228316767104
+Final Overall Error,random,4,SAEM,0.4507299746151339
+Final Overall Error,random,5,IMP,0.7001497303951951
+Final Overall Error,random,5,PSGD,0.5966338502097401
+Final Overall Error,random,5,SAEM,0.5232248703086365
+Final Relative Overall Error,isotropic,2,IMP,1.0
+Final Relative Overall Error,isotropic,2,PSGD,0.8654779192790464
+Final Relative Overall Error,isotropic,2,SAEM,0.7616049193508903
+Final Relative Overall Error,isotropic,3,IMP,1.0
+Final Relative Overall Error,isotropic,3,PSGD,0.8744095756265609
+Final Relative Overall Error,isotropic,3,SAEM,0.7358312068734687
+Final Relative Overall Error,isotropic,4,IMP,1.0
+Final Relative Overall Error,isotropic,4,PSGD,0.8646818108239569
+Final Relative Overall Error,isotropic,4,SAEM,0.7276387557788703
+Final Relative Overall Error,isotropic,5,IMP,1.0
+Final Relative Overall Error,isotropic,5,PSGD,0.8848365482020407
+Final Relative Overall Error,isotropic,5,SAEM,0.7145960191108924
+Final Relative Overall Error,diagonal,2,IMP,1.0
+Final Relative Overall Error,diagonal,2,PSGD,0.880225788257903
+Final Relative Overall Error,diagonal,2,SAEM,0.7310801059447815
+Final Relative Overall Error,diagonal,3,IMP,1.0
+Final Relative Overall Error,diagonal,3,PSGD,0.8757664686655953
+Final Relative Overall Error,diagonal,3,SAEM,0.7575432922919553
+Final Relative Overall Error,diagonal,4,IMP,1.0
+Final Relative Overall Error,diagonal,4,PSGD,0.8817429601612123
+Final Relative Overall Error,diagonal,4,SAEM,0.7374598700769291
+Final Relative Overall Error,diagonal,5,IMP,1.0
+Final Relative Overall Error,diagonal,5,PSGD,0.8770039418859003
+Final Relative Overall Error,diagonal,5,SAEM,0.7231041272063103
+Final Relative Overall Error,ar_correlated,2,IMP,1.0
+Final Relative Overall Error,ar_correlated,2,PSGD,0.9401982587228909
+Final Relative Overall Error,ar_correlated,2,SAEM,0.7686356763316693
+Final Relative Overall Error,ar_correlated,3,IMP,1.0
+Final Relative Overall Error,ar_correlated,3,PSGD,0.9246716239264857
+Final Relative Overall Error,ar_correlated,3,SAEM,0.7422828452772106
+Final Relative Overall Error,ar_correlated,4,IMP,1.0
+Final Relative Overall Error,ar_correlated,4,PSGD,0.9396314690942733
+Final Relative Overall Error,ar_correlated,4,SAEM,0.7412645527743161
+Final Relative Overall Error,ar_correlated,5,IMP,1.0
+Final Relative Overall Error,ar_correlated,5,PSGD,0.9145179931451335
+Final Relative Overall Error,ar_correlated,5,SAEM,0.7400052892334003
+Final Relative Overall Error,independent_linear_combination,2,IMP,1.0
+Final Relative Overall Error,independent_linear_combination,2,PSGD,0.8086550809638479
+Final Relative Overall Error,independent_linear_combination,2,SAEM,0.74686535688866
+Final Relative Overall Error,independent_linear_combination,3,IMP,1.0
+Final Relative Overall Error,independent_linear_combination,3,PSGD,0.7963037161410536
+Final Relative Overall Error,independent_linear_combination,3,SAEM,0.7439068871820571
+Final Relative Overall Error,independent_linear_combination,4,IMP,1.0
+Final Relative Overall Error,independent_linear_combination,4,PSGD,0.6369917465389784
+Final Relative Overall Error,independent_linear_combination,4,SAEM,0.7467615571032266
+Final Relative Overall Error,independent_linear_combination,5,IMP,1.0
+Final Relative Overall Error,independent_linear_combination,5,PSGD,0.7520412062970525
+Final Relative Overall Error,independent_linear_combination,5,SAEM,0.7658435351369264
+Final Relative Overall Error,random,2,IMP,1.0
+Final Relative Overall Error,random,2,PSGD,0.895372476047111
+Final Relative Overall Error,random,2,SAEM,0.7440367051367529
+Final Relative Overall Error,random,3,IMP,1.0
+Final Relative Overall Error,random,3,PSGD,0.8995161147452021
+Final Relative Overall Error,random,3,SAEM,0.7574424943483056
+Final Relative Overall Error,random,4,IMP,1.0
+Final Relative Overall Error,random,4,PSGD,0.8940792914052709
+Final Relative Overall Error,random,4,SAEM,0.7274939645915092
+Final Relative Overall Error,random,5,IMP,1.0
+Final Relative Overall Error,random,5,PSGD,0.8543030727762256
+Final Relative Overall Error,random,5,SAEM,0.7471628630074323
+Total Time (seconds),isotropic,2,IMP,0.0
+Total Time (seconds),isotropic,2,PSGD,42.84741015074542
+Total Time (seconds),isotropic,2,SAEM,46.01160850512679
+Total Time (seconds),isotropic,3,IMP,0.0
+Total Time (seconds),isotropic,3,PSGD,59.338586328114616
+Total Time (seconds),isotropic,3,SAEM,60.539085927004635
+Total Time (seconds),isotropic,4,IMP,0.0
+Total Time (seconds),isotropic,4,PSGD,81.27322031262156
+Total Time (seconds),isotropic,4,SAEM,89.24742704688833
+Total Time (seconds),isotropic,5,IMP,0.0
+Total Time (seconds),isotropic,5,PSGD,91.35604961929077
+Total Time (seconds),isotropic,5,SAEM,103.89397873214746
+Total Time (seconds),diagonal,2,IMP,0.0
+Total Time (seconds),diagonal,2,PSGD,50.33262867711892
+Total Time (seconds),diagonal,2,SAEM,50.50018890076899
+Total Time (seconds),diagonal,3,IMP,0.0
+Total Time (seconds),diagonal,3,PSGD,59.09404551024636
+Total Time (seconds),diagonal,3,SAEM,59.28170975524699
+Total Time (seconds),diagonal,4,IMP,0.0
+Total Time (seconds),diagonal,4,PSGD,79.36321367188066
+Total Time (seconds),diagonal,4,SAEM,79.54450342175551
+Total Time (seconds),diagonal,5,IMP,0.0
+Total Time (seconds),diagonal,5,PSGD,97.76940806787024
+Total Time (seconds),diagonal,5,SAEM,99.77445419275318
+Total Time (seconds),ar_correlated,2,IMP,0.0
+Total Time (seconds),ar_correlated,2,PSGD,44.15938105713576
+Total Time (seconds),ar_correlated,2,SAEM,47.749893124986556
+Total Time (seconds),ar_correlated,3,IMP,0.0
+Total Time (seconds),ar_correlated,3,PSGD,60.30991685413028
+Total Time (seconds),ar_correlated,3,SAEM,59.627595088633825
+Total Time (seconds),ar_correlated,4,IMP,0.0
+Total Time (seconds),ar_correlated,4,PSGD,75.12311592174228
+Total Time (seconds),ar_correlated,4,SAEM,75.42658730725088
+Total Time (seconds),ar_correlated,5,IMP,0.0
+Total Time (seconds),ar_correlated,5,PSGD,87.29455804663303
+Total Time (seconds),ar_correlated,5,SAEM,87.21800449485454
+Total Time (seconds),independent_linear_combination,2,IMP,0.0
+Total Time (seconds),independent_linear_combination,2,PSGD,48.55601589597791
+Total Time (seconds),independent_linear_combination,2,SAEM,48.83845334874786
+Total Time (seconds),independent_linear_combination,3,IMP,0.0
+Total Time (seconds),independent_linear_combination,3,PSGD,52.60415429675777
+Total Time (seconds),independent_linear_combination,3,SAEM,57.25583159388043
+Total Time (seconds),independent_linear_combination,4,IMP,0.0
+Total Time (seconds),independent_linear_combination,4,PSGD,70.20264031529327
+Total Time (seconds),independent_linear_combination,4,SAEM,68.70475467175129
+Total Time (seconds),independent_linear_combination,5,IMP,0.0
+Total Time (seconds),independent_linear_combination,5,PSGD,103.07645346860954
+Total Time (seconds),independent_linear_combination,5,SAEM,103.39970084529237
+Total Time (seconds),random,2,IMP,0.0
+Total Time (seconds),random,2,PSGD,47.43500542213587
+Total Time (seconds),random,2,SAEM,46.8916128592391
+Total Time (seconds),random,3,IMP,0.0
+Total Time (seconds),random,3,PSGD,56.31319392724981
+Total Time (seconds),random,3,SAEM,56.8264373960119
+Total Time (seconds),random,4,IMP,0.0
+Total Time (seconds),random,4,PSGD,70.68791687001067
+Total Time (seconds),random,4,SAEM,71.62417807812017
+Total Time (seconds),random,5,IMP,0.0
+Total Time (seconds),random,5,PSGD,107.41909954149742
+Total Time (seconds),random,5,SAEM,106.71259011462826
+Average Time per Iteration (seconds),isotropic,2,IMP,0.0
+Average Time per Iteration (seconds),isotropic,2,PSGD,0.0470735686972394
+Average Time per Iteration (seconds),isotropic,2,SAEM,0.045911576669858185
+Average Time per Iteration (seconds),isotropic,3,IMP,0.0
+Average Time per Iteration (seconds),isotropic,3,PSGD,0.057947838211049374
+Average Time per Iteration (seconds),isotropic,3,SAEM,0.059120201100590436
+Average Time per Iteration (seconds),isotropic,4,IMP,0.0
+Average Time per Iteration (seconds),isotropic,4,PSGD,0.0921625393563743
+Average Time per Iteration (seconds),isotropic,4,SAEM,0.08715569047547685
+Average Time per Iteration (seconds),isotropic,5,IMP,0.0
+Average Time per Iteration (seconds),isotropic,5,PSGD,0.11094748313048232
+Average Time per Iteration (seconds),isotropic,5,SAEM,0.10347021331332183
+Average Time per Iteration (seconds),diagonal,2,IMP,0.0
+Average Time per Iteration (seconds),diagonal,2,PSGD,0.0491529576924989
+Average Time per Iteration (seconds),diagonal,2,SAEM,0.049316590723407175
+Average Time per Iteration (seconds),diagonal,3,IMP,0.0
+Average Time per Iteration (seconds),diagonal,3,PSGD,0.057709028818599926
+Average Time per Iteration (seconds),diagonal,3,SAEM,0.057892294682858364
+Average Time per Iteration (seconds),diagonal,4,IMP,0.0
+Average Time per Iteration (seconds),diagonal,4,PSGD,0.0775031383514459
+Average Time per Iteration (seconds),diagonal,4,SAEM,0.07768017912280806
+Average Time per Iteration (seconds),diagonal,5,IMP,0.0
+Average Time per Iteration (seconds),diagonal,5,PSGD,0.0954779375662795
+Average Time per Iteration (seconds),diagonal,5,SAEM,0.0974359904226105
+Average Time per Iteration (seconds),ar_correlated,2,IMP,0.0
+Average Time per Iteration (seconds),ar_correlated,2,PSGD,0.04781126333820121
+Average Time per Iteration (seconds),ar_correlated,2,SAEM,0.04663075500486962
+Average Time per Iteration (seconds),ar_correlated,3,IMP,0.0
+Average Time per Iteration (seconds),ar_correlated,3,PSGD,0.05889640317786156
+Average Time per Iteration (seconds),ar_correlated,3,SAEM,0.058230073328743935
+Average Time per Iteration (seconds),ar_correlated,4,IMP,0.0
+Average Time per Iteration (seconds),ar_correlated,4,PSGD,0.0733624178923264
+Average Time per Iteration (seconds),ar_correlated,4,SAEM,0.07365877666723716
+Average Time per Iteration (seconds),ar_correlated,5,IMP,0.0
+Average Time per Iteration (seconds),ar_correlated,5,PSGD,0.08524859184241504
+Average Time per Iteration (seconds),ar_correlated,5,SAEM,0.08517383251450633
+Average Time per Iteration (seconds),independent_linear_combination,2,IMP,0.0
+Average Time per Iteration (seconds),independent_linear_combination,2,PSGD,0.04741798427341589
+Average Time per Iteration (seconds),independent_linear_combination,2,SAEM,0.04769380209838654
+Average Time per Iteration (seconds),independent_linear_combination,3,IMP,0.0
+Average Time per Iteration (seconds),independent_linear_combination,3,PSGD,0.05655517097820117
+Average Time per Iteration (seconds),independent_linear_combination,3,SAEM,0.05591389804089882
+Average Time per Iteration (seconds),independent_linear_combination,4,IMP,0.0
+Average Time per Iteration (seconds),independent_linear_combination,4,PSGD,0.06855726593290352
+Average Time per Iteration (seconds),independent_linear_combination,4,SAEM,0.06709448698413208
+Average Time per Iteration (seconds),independent_linear_combination,5,IMP,0.0
+Average Time per Iteration (seconds),independent_linear_combination,5,PSGD,0.10093325689320232
+Average Time per Iteration (seconds),independent_linear_combination,5,SAEM,0.10097627035673078
+Average Time per Iteration (seconds),random,2,IMP,0.0
+Average Time per Iteration (seconds),random,2,PSGD,0.04632324748255452
+Average Time per Iteration (seconds),random,2,SAEM,0.046628599663699886
+Average Time per Iteration (seconds),random,3,IMP,0.0
+Average Time per Iteration (seconds),random,3,PSGD,0.05499335344457985
+Average Time per Iteration (seconds),random,3,SAEM,0.05549456776954283
+Average Time per Iteration (seconds),random,4,IMP,0.0
+Average Time per Iteration (seconds),random,4,PSGD,0.06903116881836975
+Average Time per Iteration (seconds),random,4,SAEM,0.06994548640441417
+Average Time per Iteration (seconds),random,5,IMP,0.0
+Average Time per Iteration (seconds),random,5,PSGD,0.10490146439599354
+Average Time per Iteration (seconds),random,5,SAEM,0.10661707249679918
