@@ -7,4 +7,4 @@ conditions, outperforming classical imputation baselines by 20%.
 Maximisation (SAEM), combining numerical Riemann integration, exponential tilting, importance and Gibbs sampling
 to cut time complexity by up to 25%.
 • Incorporated feasibility stabilisation, constraint-aware initialisation & validation-based early stopping, reducing
-numerical failure rate to 5% even under unknown covariance regime (outperforming evaluated literature baselines).
+numerical failure rate to 5% even under unknown covariance regime.
